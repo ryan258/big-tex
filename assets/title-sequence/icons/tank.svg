@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="tank-title tank-desc">
+  <title id="tank-title">Ground response</title>
+  <desc id="tank-desc">A squat tank with a crooked turret, a long cannon, and four open track wheels.</desc>
+  <g id="tank-tank" fill="#191815">
+    <path d="m54 125 26-40 68 5 17 35 28 10 13 21-170 1 7-23Z"/>
+    <path d="m136 97 84-11 9 17-86 13ZM89 77l38-3 3 13-43-1Z"/>
+    <path fill-rule="evenodd" d="m44 157 147-4 26 25-10 32-29 12-138-5-18-24 3-22ZM48 172 35 181 39 198 53 202 65 190 61 177ZM88 173 77 183 82 199 96 202 106 189 102 176ZM129 172 117 183 121 199 138 202 149 187 143 173ZM171 170 159 182 163 198 181 201 196 189 190 175Z"/>
+  </g>
+  <g id="tank-markings" fill="#C83E2D"><path d="m94 105 13 4 9-8 2 13 13 7-14 5-4 14-8-12-14-1 9-10Z"/><path d="m40 143 143-5 7 9-152 5Z"/></g>
+  <g id="tank-muzzle-flash" fill="#C83E2D"><path d="m229 78 14-13-2 23 12 11-18 3Z"/></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="steel-skull-title steel-skull-desc">
+  <title id="steel-skull-title">Steel underneath</title>
+  <desc id="steel-skull-desc">An exposed mechanical skull with mismatched red eyes and broken metal teeth.</desc>
+  <g id="steel-skull-skull" fill="#191815">
+    <path fill-rule="evenodd" d="m79 36 71-10 41 31 12 56-14 43-29 10-3 33-22 28-42-5-20-27-1-31-27-15-6-57 14-36ZM66 87l42-6 6 34-40 11ZM139 83l43 10-8 33-37-13ZM124 123l-14 29 26-2ZM88 174l9 29 10 5-3-35ZM115 174l1 35 12 1 2-35ZM143 171l-6 36 11-11 5-26Z"/>
+  </g>
+  <g id="steel-skull-eyes" fill="#C83E2D"><path d="m76 95 24-3 3 14-25 7ZM148 95l24 6-3 13-22-8Z"/></g>
+  <g id="steel-skull-fractures" fill="#D5A326"><path d="m112 38 10-2-1 22 16 9-11 19-6-18-12-7ZM44 181l15 7-7 20-15-10ZM187 177l18-5 5 18-18 7Z"/></g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="big-tex-title big-tex-desc">
+  <title id="big-tex-title">Big Tex</title>
+  <desc id="big-tex-desc">A looming angular cowboy with a crooked hat, split red face, and broad work shirt.</desc>
+  <g id="big-tex-figure" fill="#191815">
+    <path d="M68 75 78 31 106 38 131 26 158 34 170 76 215 69 225 88 139 103 31 90 38 76Z"/>
+    <path fill-rule="evenodd" d="M80 99 174 100 167 150 151 171 160 181 197 188 218 231 37 231 52 189 91 177 96 160 79 139ZM95 119 115 122 111 131 94 127ZM141 123 161 117 159 129 142 132ZM111 148 145 146 136 154 117 156Z"/>
+    <path d="m34 102-11 23 30-7 10-13ZM191 112l29 14-5-21-22-10Z"/>
+  </g>
+  <g id="big-tex-charge" fill="#C83E2D">
+    <path d="m131 103-9 35 11-1-6 25 25-31-14 2 11-30Z"/>
+    <path d="m74 190 24-12 24 33-21-7-9 15ZM154 179l26 12-18 26-16-9-16 5Z"/>
+  </g>
+</svg>

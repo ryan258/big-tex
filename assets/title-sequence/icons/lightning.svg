@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="lightning-title lightning-desc">
+  <title id="lightning-title">The ignition</title>
+  <desc id="lightning-desc">A single broken-edged lightning strike with three small shock fragments.</desc>
+  <g id="lightning-bolt" fill="#C83E2D"><path d="m132 19 57 8-48 75 53-5-92 140 16-95-52 11Z"/></g>
+  <g id="lightning-shock" fill="#191815"><path d="m42 60 36 24-7 14-40-17ZM199 145l31 18-7 16-35-21ZM40 192l43-14 5 12-43 20Z"/></g>
+</svg>

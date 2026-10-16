@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="ferris-wheel-title ferris-wheel-desc">
+  <title id="ferris-wheel-title">Texas Star</title>
+  <desc id="ferris-wheel-desc">A six-spoke carnival wheel with irregular gondolas and splayed supports.</desc>
+  <g id="ferris-wheel-supports" fill="#191815"><path d="m111 143 18-2-50 83-24 5ZM128 139l18 5 46 82-25-3ZM54 225l147-4 9 14-164 2Z"/></g>
+  <g id="ferris-wheel-wheel" fill="#191815">
+    <path fill-rule="evenodd" d="m110 25 56 9 43 40 10 58-25 53-57 22-62-15-34-45-7-59 27-44ZM112 42 73 58 50 92 57 141 84 178 135 191 182 171 203 129 193 82 158 49Z"/>
+    <path d="m116 38 12-2 10 157-11 1ZM47 83l158 53-5 12L43 94ZM69 175 190 66l9 10L78 184Z"/>
+  </g>
+  <g id="ferris-wheel-gondolas" fill="#C83E2D"><path d="m100 16 30-4 5 26-32 3ZM177 37l27 15-13 25-27-16ZM207 105l28 4-3 30-27-6ZM177 171l24 19-21 22-22-20ZM64 181l21 18-18 22-25-17ZM19 104l28-5 5 27-29 4ZM43 40l23-17 18 22-25 17Z"/></g>
+  <g id="ferris-wheel-hub" fill="#D5A326"><path d="m115 102 23-7 19 16-6 23-26 7-17-19Z"/></g>
+</svg>

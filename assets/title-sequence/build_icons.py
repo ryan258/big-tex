@@ -1,0 +1,142 @@
+"""Build the original Big Tex cut-paper SVG icon set. Python standard library only."""
+
+from pathlib import Path
+from html import escape
+import re
+
+ROOT = Path(__file__).resolve().parent
+INK = "#191815"
+RED = "#C83E2D"
+GOLD = "#D5A326"
+PAPER = "#F3E6CC"
+
+# Every coordinate is authored as vector geometry. No fonts, bitmaps, filters,
+# external assets, or background rectangles are embedded in the individual icons.
+ICONS = [
+    ("big-tex", "Big Tex", "A looming angular cowboy with a crooked hat, split red face, and broad work shirt.", f'''
+  <g id="figure" fill="{INK}">
+    <path d="M68 75 78 31 106 38 131 26 158 34 170 76 215 69 225 88 139 103 31 90 38 76Z"/>
+    <path fill-rule="evenodd" d="M80 99 174 100 167 150 151 171 160 181 197 188 218 231 37 231 52 189 91 177 96 160 79 139ZM95 119 115 122 111 131 94 127ZM141 123 161 117 159 129 142 132ZM111 148 145 146 136 154 117 156Z"/>
+    <path d="m34 102-11 23 30-7 10-13ZM191 112l29 14-5-21-22-10Z"/>
+  </g>
+  <g id="charge" fill="{RED}">
+    <path d="m131 103-9 35 11-1-6 25 25-31-14 2 11-30Z"/>
+    <path d="m74 190 24-12 24 33-21-7-9 15ZM154 179l26 12-18 26-16-9-16 5Z"/>
+  </g>'''),
+    ("cowboy-hat", "95-gallon hat", "An oversized cowboy hat with a buckled crown and a long sharply tilted brim.", f'''
+  <g id="hat" fill="{INK}">
+    <path d="m61 144 15-80 32 12 24-23 36 13 19 76 37-13 15 19-18 22-88 24-98-17-18-21 12-21Z"/>
+  </g>
+  <g id="hatband" fill="{RED}">
+    <path d="m67 126 56 12 61-13 4 19-66 15-58-13Z"/>
+    <path d="m142 74 15 5 13 39-16-2Z"/>
+  </g>
+  <g id="motion" fill="{GOLD}"><path d="m25 195 71 13-3 8-71-8ZM158 209l63-20 5 8-65 22Z"/></g>'''),
+    ("lightning", "The ignition", "A single broken-edged lightning strike with three small shock fragments.", f'''
+  <g id="bolt" fill="{RED}"><path d="m132 19 57 8-48 75 53-5-92 140 16-95-52 11Z"/></g>
+  <g id="shock" fill="{INK}"><path d="m42 60 36 24-7 14-40-17ZM199 145l31 18-7 16-35-21ZM40 192l43-14 5 12-43 20Z"/></g>'''),
+    ("ferris-wheel", "Texas Star", "A six-spoke carnival wheel with irregular gondolas and splayed supports.", f'''
+  <g id="supports" fill="{INK}"><path d="m111 143 18-2-50 83-24 5ZM128 139l18 5 46 82-25-3ZM54 225l147-4 9 14-164 2Z"/></g>
+  <g id="wheel" fill="{INK}">
+    <path fill-rule="evenodd" d="m110 25 56 9 43 40 10 58-25 53-57 22-62-15-34-45-7-59 27-44ZM112 42 73 58 50 92 57 141 84 178 135 191 182 171 203 129 193 82 158 49Z"/>
+    <path d="m116 38 12-2 10 157-11 1ZM47 83l158 53-5 12L43 94ZM69 175 190 66l9 10L78 184Z"/>
+  </g>
+  <g id="gondolas" fill="{RED}"><path d="m100 16 30-4 5 26-32 3ZM177 37l27 15-13 25-27-16ZM207 105l28 4-3 30-27-6ZM177 171l24 19-21 22-22-20ZM64 181l21 18-18 22-25-17ZM19 104l28-5 5 27-29 4ZM43 40l23-17 18 22-25 17Z"/></g>
+  <g id="hub" fill="{GOLD}"><path d="m115 102 23-7 19 16-6 23-26 7-17-19Z"/></g>'''),
+    ("corny-dog", "Last corny dog", "A tilted battered corny dog with a zigzag mustard stripe and a wooden stick.", f'''
+  <g id="stick" fill="{INK}"><path d="m107 166 16 8-37 65-17-9Z"/></g>
+  <g id="batter" fill="{RED}"><path d="m147 26 25-5 26 14 12 24-6 27-44 81-21 20-28 4-26-15-12-24 3-27 45-82Z"/></g>
+  <g id="mustard" fill="{GOLD}"><path d="m157 44 15 8-19 24 22 6-36 34 18 8-37 43-12-10 24-28-21-7 35-33-22-7Z"/></g>
+  <g id="crumbs" fill="{INK}"><path d="m57 80 14-5 5 17-16 4ZM198 134l16 6-7 18-14-8ZM46 172l13-9 9 13-15 10Z"/></g>'''),
+    ("power-tower", "Off the cables", "An angular power pylon with open triangular bracing and snapped red electric lines.", f'''
+  <g id="pylon" fill="{INK}">
+    <path fill-rule="evenodd" d="m111 23 29 2 48 209-24-2-11-49-58 1-13 51-24-3ZM122 59 108 112 139 111ZM105 129l-9 36 53-2-8-34Z"/>
+    <path d="m56 62 133 5 9 17-148-3ZM37 108l175-6 9 19-190 6ZM100 121l51 49-10 10-50-49ZM141 121l12 10-49 46-12-11Z"/>
+    <path d="m55 77 13-1-3 23-13-3ZM180 79h13l5 22-13 1ZM37 122l14-1-2 25-13-1ZM201 117l14-1 5 25-14 2Z"/>
+  </g>
+  <g id="snapped-lines" fill="{RED}"><path d="m20 162 29-8 8 12 20-7-18 23-14-12-24 7ZM175 49l23-20 3 19 28-10-24 25-12-12ZM190 163l31-15 11 14-22-1-14 20Z"/></g>'''),
+    ("cowboy-boot", "First footfall", "A heavy cowboy boot with a jagged upper, angled heel, and a cracked ground impact.", f'''
+  <g id="boot" fill="{INK}"><path d="m80 26 71 8-10 66 13 42 31 20 40 8 9 24-10 15-70 3-43-18-8 22-49-2 4-49 16-55Z"/></g>
+  <g id="inlay" fill="{RED}"><path d="m89 51 16 13 14-11 15 7-21 25 16 12-29 40 5-35-17-13 13-10-16-13Z"/><path d="m57 178 46 4 54 18 64-4-3 9-65 1-53-16-43-1Z"/></g>
+  <g id="impact" fill="{RED}"><path d="m25 225 60-4-18 12-40 4ZM127 222l17 6-7 16-8-8-15 5ZM178 220l49-7 10 13-54 5Z"/></g>'''),
+    ("helicopter", "Air response", "A small military helicopter with a long slanted rotor and a red cockpit.", f'''
+  <g id="airframe" fill="{INK}">
+    <path d="m79 108 47-10 44 14 22 25-10 23-47 8-50-14-38-4-19 17-9-3 9-33-4-27 12-4 18 30 26 3Z"/>
+    <path d="m121 80 14-2 6 33-16 1ZM36 79l187-17 6 12L35 92ZM92 163l12 1-3 19 68-1-3-17 12-3 5 30-104 4 1-13 9 1Z"/>
+  </g>
+  <g id="cockpit" fill="{RED}"><path d="m136 112 27 8 15 17-9 13-28-4ZM15 116l35-9 3 9-36 11Z"/></g>
+  <g id="rotor-wake" fill="{GOLD}"><path d="m63 42 60-9 1 8-60 11ZM165 213l48-7 2 10-51 6Z"/></g>'''),
+    ("tank", "Ground response", "A squat tank with a crooked turret, a long cannon, and four open track wheels.", f'''
+  <g id="tank" fill="{INK}">
+    <path d="m54 125 26-40 68 5 17 35 28 10 13 21-170 1 7-23Z"/>
+    <path d="m136 97 84-11 9 17-86 13ZM89 77l38-3 3 13-43-1Z"/>
+    <path fill-rule="evenodd" d="m44 157 147-4 26 25-10 32-29 12-138-5-18-24 3-22ZM48 172 35 181 39 198 53 202 65 190 61 177ZM88 173 77 183 82 199 96 202 106 189 102 176ZM129 172 117 183 121 199 138 202 149 187 143 173ZM171 170 159 182 163 198 181 201 196 189 190 175Z"/>
+  </g>
+  <g id="markings" fill="{RED}"><path d="m94 105 13 4 9-8 2 13 13 7-14 5-4 14-8-12-14-1 9-10Z"/><path d="m40 143 143-5 7 9-152 5Z"/></g>
+  <g id="muzzle-flash" fill="{RED}"><path d="m229 78 14-13-2 23 12 11-18 3Z"/></g>'''),
+    ("steel-skull", "Steel underneath", "An exposed mechanical skull with mismatched red eyes and broken metal teeth.", f'''
+  <g id="skull" fill="{INK}">
+    <path fill-rule="evenodd" d="m79 36 71-10 41 31 12 56-14 43-29 10-3 33-22 28-42-5-20-27-1-31-27-15-6-57 14-36ZM66 87l42-6 6 34-40 11ZM139 83l43 10-8 33-37-13ZM124 123l-14 29 26-2ZM88 174l9 29 10 5-3-35ZM115 174l1 35 12 1 2-35ZM143 171l-6 36 11-11 5-26Z"/>
+  </g>
+  <g id="eyes" fill="{RED}"><path d="m76 95 24-3 3 14-25 7ZM148 95l24 6-3 13-22-8Z"/></g>
+  <g id="fractures" fill="{GOLD}"><path d="m112 38 10-2-1 22 16 9-11 19-6-18-12-7ZM44 181l15 7-7 20-15-10ZM187 177l18-5 5 18-18 7Z"/></g>'''),
+    ("dallas-skyline", "See y’all next fall", "An angular burning city silhouette with a round-topped tower and cutout windows.", f'''
+  <g id="city" fill="{INK}">
+    <path fill-rule="evenodd" d="m21 207 1-48 27-3 2-34 31-2 1-33 17-18 24 12 1 92 14-2-1-58 28-19 19 20-1 29 27-3 2 30 23 5 1 34ZM91 96l13-2 1 25-14 1ZM92 135l14-2 1 25-15 1ZM151 124l12-5 1 24-12 3ZM151 159l12-3 1 24-12 2Z"/>
+    <path d="m37 151-1-62 11-2 4 64ZM27 67l15-10 18 8 5 16-16 13-22-4-7-11ZM18 213l218-7 4 17-224 7Z"/>
+  </g>
+  <g id="fire" fill="{RED}"><path d="m59 112-7-24 12 4 6-35 17 32-10 21ZM131 103l-9-36 12 7 6-40 17 38-8 21ZM190 135l-10-31 11 6 13-34 10 31-8 22Z"/></g>
+  <g id="embers" fill="{GOLD}"><path d="m89 30 11 6-8 15-10-7ZM181 48l13 7-8 17-12-8ZM216 40l10-5 7 16-11 4Z"/></g>'''),
+    ("electric-hand", "Maximum voltage", "An open angular hand with separated fingers and two crackling lightning arcs.", f'''
+  <g id="hand" fill="{INK}"><path d="m104 231-6-58-40-32-19-37 12-10 26 26 12 3-19-73 14-8 29 66 7-1-10-85 17-4 18 83 8-1 3-76 16 2 4 80 8 1 14-54 16 6-11 74-13 55-24 26 4 25Z"/></g>
+  <g id="palm-charge" fill="{RED}"><path d="m128 120 30-7-15 35 21-4-41 59 7-42-20 4Z"/></g>
+  <g id="arcs" fill="{GOLD}"><path d="m34 29 21 16-11 14 20 22-34-14 9-16-18-12ZM208 166l25-23-3 23 17 4-35 27 9-25ZM31 182l31-21-4 19 25 6-44 17 10-17Z"/></g>'''),
+]
+
+
+def build():
+    output = ROOT / "icons"
+    output.mkdir(parents=True, exist_ok=True)
+    symbols = []
+    cards = []
+    for index, (slug, name, description, art) in enumerate(ICONS):
+        title = escape(name)
+        art = re.sub(r'id="([^"]+)"', lambda match: f'id="{slug}-{match[1]}"', art)
+        svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="{slug}-title {slug}-desc">
+  <title id="{slug}-title">{title}</title>
+  <desc id="{slug}-desc">{escape(description)}</desc>{art}
+</svg>
+'''
+        (output / f"{slug}.svg").write_text(svg)
+        symbols.append(f'<symbol id="{slug}" viewBox="0 0 256 256"><title>{title}</title>{art}</symbol>')
+        x = 52 + (index % 4) * 340
+        y = 258 + (index // 4) * 350
+        cards.append(f'''<g transform="translate({x} {y})">
+  <path d="M0 0H310V322H0Z" fill="none" stroke="{INK}" stroke-opacity=".18"/>
+  <svg x="27" y="12" width="256" height="256" viewBox="0 0 256 256">{art}</svg>
+  <text x="18" y="301" font-size="12" fill="{RED}">{index + 1:02}</text>
+  <text x="48" y="301" font-size="15" font-weight="700">{title.upper()}</text>
+</g>''')
+    (ROOT / "sprite.svg").write_text('<svg xmlns="http://www.w3.org/2000/svg">\n' + '\n'.join(symbols) + '\n</svg>\n')
+    sheet = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1400" viewBox="0 0 1440 1400" role="img" aria-labelledby="sheet-title sheet-desc">
+<title id="sheet-title">Big Tex: Rewired — twelve cut-paper icons</title>
+<desc id="sheet-desc">An original vector icon study using angular silhouettes and three flat inks. Twelve labelled icons follow the trailer from the fairground through ignition and destruction.</desc>
+<rect width="1440" height="1400" fill="{PAPER}"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="{INK}">
+  <path d="m52 43 13-7 4 148-16 9Z" fill="{RED}"/>
+  <text x="87" y="100" font-size="70" font-weight="900">BIG TEX: REWIRED</text>
+  <text x="89" y="144" font-size="20" letter-spacing="5">CUT PAPER / HIGH VOLTAGE</text>
+  <text x="54" y="221" font-size="14" letter-spacing="2">01—12 / TITLE SEQUENCE ICON STUDY</text>
+  <g transform="translate(1095 194)"><path d="M0 0H70V20H0Z"/><path d="M82 0H152V20H82Z" fill="{RED}"/><path d="M164 0H234V20H164Z" fill="{GOLD}"/></g>
+  {''.join(cards)}
+  <path d="M52 1332H1382" stroke="{INK}" stroke-width="2"/>
+  <text x="52" y="1363" font-size="13" letter-spacing="2">FLAT INKS. CROOKED EDGES. NO QUIET ENDING.</text>
+  <text x="1382" y="1363" text-anchor="end" font-size="13">SVG / 256 × 256 / v01</text>
+</g>
+</svg>
+'''
+    (ROOT / "contact-sheet.svg").write_text(sheet)
+
+
+if __name__ == "__main__":
+    build()

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="helicopter-title helicopter-desc">
+  <title id="helicopter-title">Air response</title>
+  <desc id="helicopter-desc">A small military helicopter with a long slanted rotor and a red cockpit.</desc>
+  <g id="helicopter-airframe" fill="#191815">
+    <path d="m79 108 47-10 44 14 22 25-10 23-47 8-50-14-38-4-19 17-9-3 9-33-4-27 12-4 18 30 26 3Z"/>
+    <path d="m121 80 14-2 6 33-16 1ZM36 79l187-17 6 12L35 92ZM92 163l12 1-3 19 68-1-3-17 12-3 5 30-104 4 1-13 9 1Z"/>
+  </g>
+  <g id="helicopter-cockpit" fill="#C83E2D"><path d="m136 112 27 8 15 17-9 13-28-4ZM15 116l35-9 3 9-36 11Z"/></g>
+  <g id="helicopter-rotor-wake" fill="#D5A326"><path d="m63 42 60-9 1 8-60 11ZM165 213l48-7 2 10-51 6Z"/></g>
+</svg>

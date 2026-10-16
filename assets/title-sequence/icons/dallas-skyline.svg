@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="dallas-skyline-title dallas-skyline-desc">
+  <title id="dallas-skyline-title">See y’all next fall</title>
+  <desc id="dallas-skyline-desc">An angular burning city silhouette with a round-topped tower and cutout windows.</desc>
+  <g id="dallas-skyline-city" fill="#191815">
+    <path fill-rule="evenodd" d="m21 207 1-48 27-3 2-34 31-2 1-33 17-18 24 12 1 92 14-2-1-58 28-19 19 20-1 29 27-3 2 30 23 5 1 34ZM91 96l13-2 1 25-14 1ZM92 135l14-2 1 25-15 1ZM151 124l12-5 1 24-12 3ZM151 159l12-3 1 24-12 2Z"/>
+    <path d="m37 151-1-62 11-2 4 64ZM27 67l15-10 18 8 5 16-16 13-22-4-7-11ZM18 213l218-7 4 17-224 7Z"/>
+  </g>
+  <g id="dallas-skyline-fire" fill="#C83E2D"><path d="m59 112-7-24 12 4 6-35 17 32-10 21ZM131 103l-9-36 12 7 6-40 17 38-8 21ZM190 135l-10-31 11 6 13-34 10 31-8 22Z"/></g>
+  <g id="dallas-skyline-embers" fill="#D5A326"><path d="m89 30 11 6-8 15-10-7ZM181 48l13 7-8 17-12-8ZM216 40l10-5 7 16-11 4Z"/></g>
+</svg>

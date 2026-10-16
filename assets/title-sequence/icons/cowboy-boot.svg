@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="cowboy-boot-title cowboy-boot-desc">
+  <title id="cowboy-boot-title">First footfall</title>
+  <desc id="cowboy-boot-desc">A heavy cowboy boot with a jagged upper, angled heel, and a cracked ground impact.</desc>
+  <g id="cowboy-boot-boot" fill="#191815"><path d="m80 26 71 8-10 66 13 42 31 20 40 8 9 24-10 15-70 3-43-18-8 22-49-2 4-49 16-55Z"/></g>
+  <g id="cowboy-boot-inlay" fill="#C83E2D"><path d="m89 51 16 13 14-11 15 7-21 25 16 12-29 40 5-35-17-13 13-10-16-13Z"/><path d="m57 178 46 4 54 18 64-4-3 9-65 1-53-16-43-1Z"/></g>
+  <g id="cowboy-boot-impact" fill="#C83E2D"><path d="m25 225 60-4-18 12-40 4ZM127 222l17 6-7 16-8-8-15 5ZM178 220l49-7 10 13-54 5Z"/></g>
+</svg>
