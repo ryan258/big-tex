@@ -1,0 +1,11 @@
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.jpg
+*.jpeg
+*.png
+*.zip
+.DS_Store
+__pycache__/
+*.pyc
