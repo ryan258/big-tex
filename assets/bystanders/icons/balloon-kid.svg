@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-balloon-kid-title bystander-balloon-kid-desc">
+  <title id="bystander-balloon-kid-title">Balloon kid</title>
+  <desc id="bystander-balloon-kid-desc">A child leans back, holds a star-cutout balloon, and points up at the commotion.</desc>
+  <g id="bystander-balloon-kid-balloon" data-part="balloon" data-pivot="181 88"><path d="M160 20 187 16 210 29 220 52 215 77 193 94 168 91 150 72 147 44ZM181 34 187 48 203 48 191 59 195 76 181 67 167 76 170 60 158 50 175 47Z" fill="#E64F39" fill-rule="evenodd"/><path d="M186 90 192 102 177 101Z" fill="#E64F39"/></g>
+  <g id="bystander-balloon-kid-string" data-part="string" data-pivot="154 143"><path d="M184 98 188 99 179 117 185 131 163 145 155 161 151 159 160 142 180 129 175 116Z" fill="#103B46"/></g>
+  <g id="bystander-balloon-kid-leg-left" data-part="leg-left" data-pivot="99 189"><path d="M89 182 107 188 97 220 80 235 60 235 60 226 77 217Z" fill="#103B46"/></g>
+  <g id="bystander-balloon-kid-leg-right" data-part="leg-right" data-pivot="115 190"><path d="M105 186 124 184 132 221 148 227 146 236 124 236 116 219Z" fill="#103B46"/></g>
+  <g id="bystander-balloon-kid-torso" data-part="torso" data-pivot="104 151"><path d="M90 142 118 141 130 164 123 194 85 193 79 167Z" fill="#4CB7AD"/></g>
+  <g id="bystander-balloon-kid-arm-left" data-part="arm-left" data-pivot="84 158"><path d="M79 151 90 157 72 175 55 172 53 160 64 160Z" fill="#103B46"/></g>
+  <g id="bystander-balloon-kid-arm-right" data-part="arm-right" data-pivot="123 155"><path d="M119 148 128 150 144 131 154 132 157 142 135 166 123 168Z" fill="#103B46"/></g>
+  <g id="bystander-balloon-kid-head" data-part="head" data-pivot="105 143"><path d="M91 107 111 102 126 115 123 134 108 148 91 138 85 121ZM98 117 105 114 105 121 99 123ZM113 114 119 113 119 120 114 122ZM106 130 114 127 113 137 107 139Z" fill="#103B46" fill-rule="evenodd"/></g>
+  <g id="bystander-balloon-kid-cap" data-part="cap" data-pivot="105 111"><path d="M87 109 93 98 111 96 123 105 136 105 139 113 90 117Z" fill="#E64F39"/></g>
+</svg>

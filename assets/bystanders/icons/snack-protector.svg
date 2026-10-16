@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-snack-protector-title bystander-snack-protector-desc">
+  <title id="bystander-snack-protector-title">Snack protector</title>
+  <desc id="bystander-snack-protector-desc">A fairgoer looks up while sheltering a corny dog with both arms.</desc>
+  <g id="bystander-snack-protector-leg-left" data-part="leg-left" data-pivot="108 169"><path d="M99 162 118 169 110 205 86 232 64 232 70 219 88 210Z" fill="#103B46"/></g>
+  <g id="bystander-snack-protector-leg-right" data-part="leg-right" data-pivot="132 169"><path d="M119 165 141 160 153 194 171 215 193 222 189 234 157 233 133 209Z" fill="#103B46"/></g>
+  <g id="bystander-snack-protector-torso" data-part="torso" data-pivot="118 113"><path d="M99 98 135 99 150 126 145 174 93 176 86 138Z" fill="#4CB7AD"/></g>
+  <g id="bystander-snack-protector-head" data-part="head" data-pivot="116 95"><path d="M100 56 126 52 141 70 137 91 120 104 101 94 94 75ZM107 73 114 70 115 77 107 80ZM124 69 132 68 130 76 124 77ZM118 86 126 83 126 92 119 94Z" fill="#103B46" fill-rule="evenodd"/></g>
+  <g id="bystander-snack-protector-arm-left" data-part="arm-left" data-pivot="96 114"><path d="M88 108 101 115 86 140 113 151 109 165 67 146 69 133Z" fill="#103B46"/></g>
+  <g id="bystander-snack-protector-arm-right" data-part="arm-right" data-pivot="139 115"><path d="M134 106 148 111 165 141 141 165 129 155 145 137Z" fill="#103B46"/></g>
+  <g id="bystander-snack-protector-corny-dog" data-part="corny-dog" data-pivot="121 153"><path d="M114 125 122 126 124 173 116 176Z" fill="#103B46"/><path d="M108 98 118 91 130 96 134 110 131 139 121 147 109 142 105 128Z" fill="#E64F39"/><path d="M114 104 124 101 119 114 126 116 117 133 112 129 118 118 111 116Z" fill="#4CB7AD"/></g>
+  <g id="bystander-snack-protector-hands" data-part="hands" data-pivot="122 153"><path d="M104 148 119 144 125 153 116 164 105 163ZM131 149 143 144 150 153 141 166 132 163Z" fill="#103B46"/></g>
+</svg>

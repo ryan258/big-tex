@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-lost-tourist-classic-title bystander-lost-tourist-classic-desc">
+  <title id="bystander-lost-tourist-classic-title">Lost tourist</title>
+  <desc id="bystander-lost-tourist-classic-desc">A visitor in a broad hat unfolds a large map while looking the wrong way.</desc>
+  <g id="bystander-lost-tourist-classic-leg-left" data-part="leg-left" data-pivot="111 178"><path d="M99 170 119 177 107 215 90 234 65 234 63 223 82 216Z" fill="#191815"/></g>
+  <g id="bystander-lost-tourist-classic-leg-right" data-part="leg-right" data-pivot="136 178"><path d="M124 174 144 172 158 215 177 223 174 235 147 233 136 216Z" fill="#191815"/></g>
+  <g id="bystander-lost-tourist-classic-torso" data-part="torso" data-pivot="122 111"><path d="M100 102 137 100 151 137 143 183 91 181 86 135Z" fill="#C83E2D"/></g>
+  <g id="bystander-lost-tourist-classic-head" data-part="head" data-pivot="123 105"><path d="M108 60 132 57 146 73 140 98 123 112 105 101 99 81ZM106 78 114 74 115 82 107 86ZM125 73 134 72 134 81 127 84Z" fill="#191815" fill-rule="evenodd"/></g>
+  <g id="bystander-lost-tourist-classic-hat" data-part="hat" data-pivot="124 66"><path d="M102 62 106 40 127 44 142 38 149 61 169 60 173 73 87 79 78 68Z" fill="#D5A326"/></g>
+  <g id="bystander-lost-tourist-classic-arm-left" data-part="arm-left" data-pivot="97 119"><path d="M90 110 104 118 90 145 68 149 64 135 79 131Z" fill="#191815"/></g>
+  <g id="bystander-lost-tourist-classic-arm-right" data-part="arm-right" data-pivot="145 117"><path d="M138 109 151 114 168 135 183 134 187 149 162 153 145 139Z" fill="#191815"/></g>
+  <g id="bystander-lost-tourist-classic-map" data-part="map" data-pivot="127 150"><path d="M62 124 100 114 137 123 180 112 190 172 149 185 109 176 72 187Z" fill="#D5A326"/><path d="M99 116 106 116 114 177 108 178ZM135 124 141 122 153 183 147 184Z" fill="#191815"/><path d="M77 142 94 135 96 142 83 149 91 159 104 151 108 158 91 169 73 153ZM153 138 165 130 177 137 168 145 179 157 171 164 158 150Z" fill="#C83E2D"/></g>
+</svg>

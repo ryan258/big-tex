@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-rolling-out-title bystander-rolling-out-desc">
+  <title id="bystander-rolling-out-title">Rolling out</title>
+  <desc id="bystander-rolling-out-desc">A wheelchair user actively pushes the rear wheel to roll away from the commotion.</desc>
+  <g id="bystander-rolling-out-wheel-rear" data-part="wheel-rear" data-pivot="108 187"><path d="M95 139 120 140 143 155 155 180 152 208 133 229 107 238 80 229 62 208 59 182 71 155ZM99 154 80 165 72 185 76 205 89 220 108 225 127 218 139 201 141 182 132 165 116 155Z" fill="#103B46" fill-rule="evenodd"/><path d="M102 152 112 153 113 227 103 229ZM72 170 144 201 139 210 69 179ZM80 217 135 161 143 169 88 224Z" fill="#4CB7AD"/></g>
+  <g id="bystander-rolling-out-chair-frame" data-part="chair-frame" data-pivot="119 171"><path d="M82 105 95 104 108 170 158 174 168 193 201 207 198 219 157 205 150 187 98 183Z" fill="#103B46"/><path d="M88 115 77 116 86 171 100 175Z" fill="#4CB7AD"/></g>
+  <g id="bystander-rolling-out-torso" data-part="torso" data-pivot="117 106"><path d="M100 91 129 90 143 118 136 154 107 162 92 129Z" fill="#E64F39"/></g>
+  <g id="bystander-rolling-out-head" data-part="head" data-pivot="117 94"><path d="M100 49 125 45 140 62 136 83 119 99 100 87 94 67ZM106 62 113 59 114 68 106 71ZM124 58 132 57 132 66 125 68ZM116 79 128 75 127 85 118 89Z" fill="#103B46" fill-rule="evenodd"/></g>
+  <g id="bystander-rolling-out-cap" data-part="cap" data-pivot="117 58"><path d="M96 52 104 37 126 37 137 49 150 49 151 57 99 63Z" fill="#4CB7AD"/></g>
+  <g id="bystander-rolling-out-legs" data-part="legs" data-pivot="126 156"><path d="M112 146 139 143 162 163 176 185 208 188 218 201 212 211 167 203 148 178 125 176Z" fill="#103B46"/></g>
+  <g id="bystander-rolling-out-arm-push" data-part="arm-push" data-pivot="129 110"><path d="M124 100 138 106 155 132 145 162 132 159 138 136 124 123Z" fill="#103B46"/></g>
+  <g id="bystander-rolling-out-hand" data-part="hand" data-pivot="135 161"><path d="M127 151 139 151 145 162 137 176 125 173 121 162Z" fill="#103B46"/></g>
+  <g id="bystander-rolling-out-caster" data-part="caster" data-pivot="203 226"><path d="M196 216 207 215 216 222 215 232 205 239 194 234 190 224ZM199 224 205 222 210 227 205 232 199 229Z" fill="#103B46" fill-rule="evenodd"/></g>
+</svg>

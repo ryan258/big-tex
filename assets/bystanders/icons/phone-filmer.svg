@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-phone-filmer-title bystander-phone-filmer-desc">
+  <title id="bystander-phone-filmer-title">Phone filmer</title>
+  <desc id="bystander-phone-filmer-desc">A fairgoer plants their feet and holds a phone high to film the towering cowboy.</desc>
+  <g id="bystander-phone-filmer-leg-left" data-part="leg-left" data-pivot="108 168"><path d="M98 164 119 170 104 213 96 233 68 234 65 223 83 215Z" fill="#103B46"/></g>
+  <g id="bystander-phone-filmer-leg-right" data-part="leg-right" data-pivot="133 169"><path d="M123 166 144 164 155 216 176 223 173 235 142 234 135 211Z" fill="#103B46"/></g>
+  <g id="bystander-phone-filmer-torso" data-part="torso" data-pivot="120 108"><path d="M101 99 136 96 148 127 142 177 92 176 89 128Z" fill="#4CB7AD"/><path d="M109 121 131 118 136 133 112 137Z" fill="#E64F39"/></g>
+  <g id="bystander-phone-filmer-arm-far" data-part="arm-far" data-pivot="100 110"><path d="M92 104 105 113 91 146 105 159 94 171 74 148 77 130Z" fill="#103B46"/></g>
+  <g id="bystander-phone-filmer-head" data-part="head" data-pivot="120 96"><path d="M103 53 128 48 143 62 141 85 124 103 103 93 96 73ZM110 66 117 64 117 72 110 74ZM126 62 134 60 134 69 127 70ZM119 82 129 79 129 88 120 91Z" fill="#103B46" fill-rule="evenodd"/></g>
+  <g id="bystander-phone-filmer-arm-raised" data-part="arm-raised" data-pivot="139 111"><path d="M135 101 149 104 169 84 172 56 187 58 185 91 153 128 143 123Z" fill="#103B46"/></g>
+  <g id="bystander-phone-filmer-phone" data-part="phone" data-pivot="181 62"><path d="M166 26 194 23 199 66 171 69ZM174 34 188 32 192 56 177 59Z" fill="#103B46" fill-rule="evenodd"/><path d="M178 27 185 26 186 30 179 31Z" fill="#E64F39"/></g>
+  <g id="bystander-phone-filmer-hand" data-part="hand" data-pivot="179 64"><path d="M169 58 182 54 191 61 185 75 174 77Z" fill="#103B46"/></g>
+</svg>

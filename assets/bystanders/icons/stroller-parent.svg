@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-stroller-parent-title bystander-stroller-parent-desc">
+  <title id="bystander-stroller-parent-title">Stroller parent</title>
+  <desc id="bystander-stroller-parent-desc">A parent moves briskly while pushing a stroller with a raised canopy.</desc>
+  <g id="bystander-stroller-parent-leg-left" data-part="leg-left" data-pivot="84 171"><path d="M74 164 93 171 79 211 66 231 42 232 42 222 59 216Z" fill="#103B46"/></g>
+  <g id="bystander-stroller-parent-leg-right" data-part="leg-right" data-pivot="104 170"><path d="M95 165 114 163 126 205 145 221 144 232 125 234 108 217Z" fill="#103B46"/></g>
+  <g id="bystander-stroller-parent-torso" data-part="torso" data-pivot="93 109"><path d="M76 100 107 97 121 127 111 175 66 174 64 134Z" fill="#E64F39"/></g>
+  <g id="bystander-stroller-parent-head" data-part="head" data-pivot="95 98"><path d="M78 55 102 50 118 64 115 87 98 104 78 94 72 74ZM85 70 92 67 93 75 85 77ZM101 66 108 64 109 73 101 75ZM93 86 104 83 103 91 94 94Z" fill="#103B46" fill-rule="evenodd"/></g>
+  <g id="bystander-stroller-parent-arm-back" data-part="arm-back" data-pivot="74 113"><path d="M67 105 80 112 65 142 72 157 61 164 48 143 54 123Z" fill="#103B46"/></g>
+  <g id="bystander-stroller-parent-arm-push" data-part="arm-push" data-pivot="112 116"><path d="M106 108 119 111 131 132 159 139 156 152 122 147 104 126Z" fill="#103B46"/></g>
+  <g id="bystander-stroller-parent-stroller-frame" data-part="stroller-frame" data-pivot="185 191"><path d="M153 139 166 139 184 199 220 202 219 213 175 210 158 152 146 151Z" fill="#103B46"/><path d="M172 194 211 167 218 176 182 204Z" fill="#103B46"/></g>
+  <g id="bystander-stroller-parent-canopy" data-part="canopy" data-pivot="197 160"><path d="M165 164 177 133 202 130 225 146 230 174 207 179 184 175Z" fill="#4CB7AD"/><path d="M182 140 200 137 219 151 222 162 204 151Z" fill="#E64F39"/></g>
+  <g id="bystander-stroller-parent-blanket" data-part="blanket" data-pivot="192 182"><path d="M163 165 183 177 228 170 221 192 179 198 166 185Z" fill="#E64F39"/></g>
+  <g id="bystander-stroller-parent-wheel-rear" data-part="wheel-rear" data-pivot="178 220"><path d="M168 209 181 205 191 213 191 224 182 233 171 230 164 221ZM173 216 178 213 184 218 182 224 176 224Z" fill="#103B46" fill-rule="evenodd"/></g>
+  <g id="bystander-stroller-parent-wheel-front" data-part="wheel-front" data-pivot="221 218"><path d="M214 209 225 208 234 216 230 228 218 232 210 223ZM218 216 224 215 227 220 222 225 217 222Z" fill="#103B46" fill-rule="evenodd"/></g>
+</svg>

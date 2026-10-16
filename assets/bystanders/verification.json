@@ -1,0 +1,41 @@
+{
+  "characters": 12,
+  "palettes": 2,
+  "standalone_svgs": 24,
+  "checks": [
+    "Valid XML",
+    "Unique IDs per file",
+    "Accessible titles/descriptions",
+    "Vector-only standalone contents",
+    "Manifest matches SVG groups",
+    "Pivot coordinates in viewBox",
+    "Transparent backgrounds",
+    "Four-pixel clear margins"
+  ],
+  "svg_hashes": {
+    "icons/balloon-kid.svg": "3dac7b3a205b9917e5c77ad0054f06ffffa7bce878098af73b29782db3503506",
+    "icons/corny-dog-vendor.svg": "8ed11c71708b7fd98c7beb5cbd1d153398e0c9854592842d34a3354a172e9e61",
+    "icons/coupon-collector.svg": "3a0a4e3dc5e0ac8b9f1db3e0fecf8480fdef79880971c08e7d36dbc9809145cd",
+    "icons/family-on-the-move.svg": "bd4f5690b378f561ada86e3eb785a9c1e31f155fbd0461b42350bffe948d8876",
+    "icons/i30-driver.svg": "4c2934a3155c8a1a3b1d6d367940e7df5be4cc2307e678b22767299115b45397",
+    "icons/lost-tourist.svg": "5cc2783bd727f7ecc0dcdb71c034e7bb1d6ba6ca6fba78e3ee20fd41c055c582",
+    "icons/phone-filmer.svg": "c2ffde7ef3a2746b73c8f0fb7ab90b30b01c0b246defb3359354920397b20eff",
+    "icons/rolling-out.svg": "b83b58cced2cb85b3f50c12e90ec1273131167f0d36bce83b2e15156c6ee3ec5",
+    "icons/runner.svg": "b37f1588bc9009c45ba7846fbd6cfa87dcfa5be648c6d5b7f369bbb3e6e7b33f",
+    "icons/snack-protector.svg": "59bdd523cf647acd8285e2d947fe699edb764073507da18d54201475bd56e9fb",
+    "icons/stroller-parent.svg": "064fae2474f345e5b457a25036900057036ee8f874febaf69636ac09572c69a1",
+    "icons/unbothered-local.svg": "c0cfa064003bcdea9e87a3e7126a3b90bb30ed2956694b014e4389bc2961add0",
+    "classic/icons/balloon-kid.svg": "e2a439f468b0aed0c4b7d4a15eb79509631175639279a490a382d9bc91e0a604",
+    "classic/icons/corny-dog-vendor.svg": "680ed915cef411cda635c876273bb8582b56e9bb4b2619421c4650fc38420731",
+    "classic/icons/coupon-collector.svg": "5d0ba5cc33721bb6f3d26d683bfcb48ebf782b92887469fa82cc1d01c206434c",
+    "classic/icons/family-on-the-move.svg": "e6c5b0fd8d803011cd0660a13527345ac29850a61392910c875f3662b8a89145",
+    "classic/icons/i30-driver.svg": "0a960e95f0d1782ef6189c7ad7ffbbe72e594d4745ef3ade98f12c02ab441b95",
+    "classic/icons/lost-tourist.svg": "5a6ebdb84b03b1dee4e556749df7bb4b94dcdf8f1543a5904a38c2dfe0743d73",
+    "classic/icons/phone-filmer.svg": "b9c2e1719b793084ee9c3dbacaf6b0b92514aa0d459f38c8653ce7174be133b0",
+    "classic/icons/rolling-out.svg": "5f5f9468cd131fd8ed737539d4b58b0efea9fdad6230611364d3112310542ead",
+    "classic/icons/runner.svg": "df60d98dbb12133e277b7654dd52a057d928c9cc5af9d8eaecba9da5c16b74e7",
+    "classic/icons/snack-protector.svg": "a01c9ade75cb3bf6a8ccdefd5074ba8c4bd0b3b6fa0a16f9d3beef95056b70d7",
+    "classic/icons/stroller-parent.svg": "bd7d764b263ee3243373a305319ebe1b8b32431a487c0327e2f0d0a52be2bc7c",
+    "classic/icons/unbothered-local.svg": "7faa35d1dc18cc17e92ee6f94526b52011dcfc430fcd91a9b6e7d3087288c623"
+  }
+}

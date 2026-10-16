@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-corny-dog-vendor-title bystander-corny-dog-vendor-desc">
+  <title id="bystander-corny-dog-vendor-title">Corny dog vendor</title>
+  <desc id="bystander-corny-dog-vendor-desc">A vendor in a paper hat holds up a corny dog from behind a small wheeled cart.</desc>
+  <g id="bystander-corny-dog-vendor-head" data-part="head" data-pivot="130 89"><path d="M114 48 138 45 152 60 149 81 133 94 113 84 106 65ZM116 61 123 59 124 66 117 68ZM134 58 141 57 142 64 136 67ZM127 76 139 74 137 81 129 84Z" fill="#103B46" fill-rule="evenodd"/></g>
+  <g id="bystander-corny-dog-vendor-paper-hat" data-part="paper-hat" data-pivot="130 53"><path d="M106 43 119 33 133 39 150 31 156 51 108 58Z" fill="#4CB7AD"/></g>
+  <g id="bystander-corny-dog-vendor-torso" data-part="torso" data-pivot="131 105"><path d="M112 91 146 89 161 119 151 159 107 161 96 126Z" fill="#103B46"/></g>
+  <g id="bystander-corny-dog-vendor-apron" data-part="apron" data-pivot="132 112"><path d="M116 98 124 97 124 114 142 111 141 94 149 96 153 154 112 155Z" fill="#E64F39"/></g>
+  <g id="bystander-corny-dog-vendor-arm-serve" data-part="arm-serve" data-pivot="109 110"><path d="M103 100 116 107 95 132 66 120 70 107 90 114Z" fill="#103B46"/></g>
+  <g id="bystander-corny-dog-vendor-arm-right" data-part="arm-right" data-pivot="151 108"><path d="M146 99 159 105 178 132 171 153 158 149 162 135Z" fill="#103B46"/></g>
+  <g id="bystander-corny-dog-vendor-corny-dog" data-part="corny-dog" data-pivot="65 114"><path d="M61 94 67 94 70 128 63 128Z" fill="#103B46"/><path d="M51 68 60 61 71 65 77 78 75 103 67 111 54 105 49 90Z" fill="#E64F39"/><path d="M57 75 65 70 62 83 68 84 61 99 57 95 62 85 55 85Z" fill="#4CB7AD"/></g>
+  <g id="bystander-corny-dog-vendor-cart" data-part="cart" data-pivot="144 170"><path d="M65 144 215 138 221 193 71 204Z" fill="#4CB7AD"/><path d="M58 139 220 133 225 145 60 151Z" fill="#103B46"/><path d="M90 159 195 153 196 162 91 169Z" fill="#E64F39"/></g>
+  <g id="bystander-corny-dog-vendor-cart-handle" data-part="cart-handle" data-pivot="215 152"><path d="M211 143 230 143 238 160 230 165 224 153 214 154Z" fill="#103B46"/></g>
+  <g id="bystander-corny-dog-vendor-wheel-left" data-part="wheel-left" data-pivot="94 218"><path d="M80 209 91 202 105 208 111 221 102 232 88 234 77 222ZM88 215 95 212 102 219 97 225 90 224Z" fill="#103B46" fill-rule="evenodd"/></g>
+  <g id="bystander-corny-dog-vendor-wheel-right" data-part="wheel-right" data-pivot="194 213"><path d="M181 203 195 200 208 209 208 221 198 230 185 228 177 217ZM188 210 195 209 201 215 196 222 189 220Z" fill="#103B46" fill-rule="evenodd"/></g>
+</svg>

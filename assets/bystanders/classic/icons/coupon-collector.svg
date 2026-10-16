@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-coupon-collector-classic-title bystander-coupon-collector-classic-desc">
+  <title id="bystander-coupon-collector-classic-title">Coupon collector</title>
+  <desc id="bystander-coupon-collector-classic-desc">A fairgoer keeps a fistful of coupons safe while looking up in alarm.</desc>
+  <g id="bystander-coupon-collector-classic-leg-left" data-part="leg-left" data-pivot="110 169"><path d="M99 163 119 170 102 211 88 233 62 234 60 224 80 216Z" fill="#191815"/></g>
+  <g id="bystander-coupon-collector-classic-leg-right" data-part="leg-right" data-pivot="135 169"><path d="M123 166 145 163 155 212 174 223 171 235 144 233 133 211Z" fill="#191815"/></g>
+  <g id="bystander-coupon-collector-classic-torso" data-part="torso" data-pivot="122 109"><path d="M100 98 136 94 150 123 145 177 92 178 86 135Z" fill="#D5A326"/></g>
+  <g id="bystander-coupon-collector-classic-head" data-part="head" data-pivot="119 98"><path d="M104 54 128 49 143 64 139 86 122 104 101 94 96 72ZM107 68 115 64 116 73 108 76ZM125 63 133 62 132 71 125 74ZM119 84 128 80 129 91 121 94Z" fill="#191815" fill-rule="evenodd"/></g>
+  <g id="bystander-coupon-collector-classic-arm-left" data-part="arm-left" data-pivot="96 115"><path d="M89 108 103 116 89 145 108 154 103 168 70 151 75 132Z" fill="#191815"/></g>
+  <g id="bystander-coupon-collector-classic-arm-right" data-part="arm-right" data-pivot="141 114"><path d="M134 105 149 110 163 132 184 119 193 131 162 153 150 148Z" fill="#191815"/></g>
+  <g id="bystander-coupon-collector-classic-tickets" data-part="tickets" data-pivot="184 125"><path d="M177 115 163 70 180 64 193 108 197 62 215 65 210 113 231 84 242 95 212 136 193 144Z" fill="#C83E2D"/><path d="M171 77 181 75 183 82 174 85ZM199 73 209 74 208 82 198 82ZM225 94 231 99 226 106 219 101Z" fill="#191815"/><path d="M180 111 189 109 194 137 186 141Z" fill="#D5A326"/></g>
+  <g id="bystander-coupon-collector-classic-hand" data-part="hand" data-pivot="187 136"><path d="M177 126 193 121 202 131 197 145 183 150 175 140Z" fill="#191815"/></g>
+</svg>

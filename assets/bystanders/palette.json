@@ -1,0 +1,14 @@
+{
+  "sun-faded": {
+    "ink": "#103B46",
+    "red": "#E64F39",
+    "accent": "#4CB7AD",
+    "paper": "#F5E9CD"
+  },
+  "classic": {
+    "ink": "#191815",
+    "red": "#C83E2D",
+    "accent": "#D5A326",
+    "paper": "#F3E6CC"
+  }
+}

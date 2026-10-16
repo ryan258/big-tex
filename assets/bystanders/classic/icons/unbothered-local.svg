@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-unbothered-local-classic-title bystander-unbothered-local-classic-desc">
+  <title id="bystander-unbothered-local-classic-title">Unbothered local</title>
+  <desc id="bystander-unbothered-local-classic-desc">A calm fairgoer with glasses, a handbag, and folded arms watches the trouble.</desc>
+  <g id="bystander-unbothered-local-classic-leg-left" data-part="leg-left" data-pivot="112 185"><path d="M103 176 119 178 116 219 104 231 83 232 83 222 98 218Z" fill="#191815"/></g>
+  <g id="bystander-unbothered-local-classic-leg-right" data-part="leg-right" data-pivot="135 185"><path d="M126 178 143 177 148 219 167 225 165 234 141 233 133 219Z" fill="#191815"/></g>
+  <g id="bystander-unbothered-local-classic-body" data-part="body" data-pivot="123 114"><path d="M101 99 142 98 153 125 164 192 86 193 93 136Z" fill="#D5A326"/></g>
+  <g id="bystander-unbothered-local-classic-hair" data-part="hair" data-pivot="125 69"><path d="M98 49 105 36 120 34 127 27 141 33 153 48 151 67 138 72 105 70 93 61Z" fill="#C83E2D"/></g>
+  <g id="bystander-unbothered-local-classic-head" data-part="head" data-pivot="124 100"><path d="M105 54 140 51 149 70 143 94 125 107 105 95 98 76ZM104 70 118 68 119 78 107 80ZM127 67 142 66 139 77 128 78ZM116 91 135 89 134 94 118 96Z" fill="#191815" fill-rule="evenodd"/></g>
+  <g id="bystander-unbothered-local-classic-glasses-bridge" data-part="glasses-bridge" data-pivot="124 75"><path d="M117 70 130 68 131 74 118 76Z" fill="#191815"/></g>
+  <g id="bystander-unbothered-local-classic-arm-left" data-part="arm-left" data-pivot="101 119"><path d="M94 112 106 119 111 142 143 135 148 149 105 160 92 143Z" fill="#191815"/></g>
+  <g id="bystander-unbothered-local-classic-arm-right" data-part="arm-right" data-pivot="144 118"><path d="M139 108 152 116 159 141 121 154 116 141 142 132Z" fill="#191815"/></g>
+  <g id="bystander-unbothered-local-classic-handbag" data-part="handbag" data-pivot="80 176"><path d="M67 165 97 163 101 201 65 205 60 180ZM70 168 70 153 79 147 88 151 93 166 86 168 83 156 76 156 76 168Z" fill="#C83E2D" fill-rule="evenodd"/></g>
+</svg>

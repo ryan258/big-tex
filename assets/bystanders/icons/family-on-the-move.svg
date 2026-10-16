@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-family-on-the-move-title bystander-family-on-the-move-desc">
+  <title id="bystander-family-on-the-move-title">Family on the move</title>
+  <desc id="bystander-family-on-the-move-desc">An adult and child hurry together, holding hands and looking back.</desc>
+  <g id="bystander-family-on-the-move-adult-leg-left" data-part="adult-leg-left" data-pivot="88 154"><path d="M76 148 96 155 84 195 63 224 43 227 39 216 56 209 68 182Z" fill="#103B46"/></g>
+  <g id="bystander-family-on-the-move-adult-leg-right" data-part="adult-leg-right" data-pivot="104 155"><path d="M96 150 116 146 130 180 117 213 130 220 128 231 105 231 98 214 109 181Z" fill="#103B46"/></g>
+  <g id="bystander-family-on-the-move-adult-torso" data-part="adult-torso" data-pivot="96 102"><path d="M78 91 108 88 125 114 115 160 69 159 65 124Z" fill="#E64F39"/></g>
+  <g id="bystander-family-on-the-move-adult-arm-back" data-part="adult-arm-back" data-pivot="73 108"><path d="M64 98 78 105 56 128 43 119 33 93 45 86 52 106Z" fill="#103B46"/></g>
+  <g id="bystander-family-on-the-move-adult-head" data-part="adult-head" data-pivot="95 92"><path d="M76 47 101 44 118 60 113 83 95 97 75 86 68 65ZM78 62 86 59 86 67 79 69ZM95 58 103 56 103 64 97 67ZM89 78 100 74 99 84 91 88Z" fill="#103B46" fill-rule="evenodd"/></g>
+  <g id="bystander-family-on-the-move-child-leg-left" data-part="child-leg-left" data-pivot="164 184"><path d="M155 180 172 183 160 208 145 230 129 232 128 223 143 215Z" fill="#103B46"/></g>
+  <g id="bystander-family-on-the-move-child-leg-right" data-part="child-leg-right" data-pivot="179 185"><path d="M171 180 188 180 201 209 215 218 212 230 192 224 182 208Z" fill="#103B46"/></g>
+  <g id="bystander-family-on-the-move-child-torso" data-part="child-torso" data-pivot="170 148"><path d="M156 139 179 135 193 154 190 186 148 190 144 161Z" fill="#4CB7AD"/></g>
+  <g id="bystander-family-on-the-move-child-arm-free" data-part="child-arm-free" data-pivot="187 154"><path d="M179 145 191 145 208 166 221 166 225 177 204 184 184 169Z" fill="#103B46"/></g>
+  <g id="bystander-family-on-the-move-joined-hands" data-part="joined-hands" data-pivot="133 146"><path d="M111 101 126 103 139 130 155 145 150 155 128 145 116 126Z" fill="#103B46"/><path d="M150 143 161 149 146 165 133 157 127 146 135 138Z" fill="#103B46"/></g>
+  <g id="bystander-family-on-the-move-child-head" data-part="child-head" data-pivot="167 140"><path d="M151 105 173 102 187 116 184 135 169 146 153 138 145 122ZM153 116 160 113 162 120 156 123ZM171 112 178 112 179 120 173 122Z" fill="#103B46" fill-rule="evenodd"/></g>
+</svg>

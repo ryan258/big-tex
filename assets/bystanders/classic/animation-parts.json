@@ -1,0 +1,1073 @@
+{
+  "viewBox": [
+    0,
+    0,
+    256,
+    256
+  ],
+  "palette": {
+    "ink": "#191815",
+    "red": "#C83E2D",
+    "accent": "#D5A326",
+    "paper": "#F3E6CC"
+  },
+  "convention": "Pivot positions use original SVG viewBox coordinates; left/right refer to the viewer. Parts are independent flat layers. No animation or kinematic parenting is applied.",
+  "characters": [
+    {
+      "name": "Snack protector",
+      "file": "icons/snack-protector.svg",
+      "symbol": "bystander-snack-protector-classic",
+      "parts": [
+        {
+          "id": "bystander-snack-protector-classic-leg-left",
+          "name": "leg-left",
+          "pivot": [
+            108,
+            169
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-snack-protector-classic-leg-right",
+          "name": "leg-right",
+          "pivot": [
+            132,
+            169
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-snack-protector-classic-torso",
+          "name": "torso",
+          "pivot": [
+            118,
+            113
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-snack-protector-classic-head",
+          "name": "head",
+          "pivot": [
+            116,
+            95
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-snack-protector-classic-arm-left",
+          "name": "arm-left",
+          "pivot": [
+            96,
+            114
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-snack-protector-classic-arm-right",
+          "name": "arm-right",
+          "pivot": [
+            139,
+            115
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-snack-protector-classic-corny-dog",
+          "name": "corny-dog",
+          "pivot": [
+            121,
+            153
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-snack-protector-classic-hands",
+          "name": "hands",
+          "pivot": [
+            122,
+            153
+          ],
+          "layer": 7
+        }
+      ]
+    },
+    {
+      "name": "Phone filmer",
+      "file": "icons/phone-filmer.svg",
+      "symbol": "bystander-phone-filmer-classic",
+      "parts": [
+        {
+          "id": "bystander-phone-filmer-classic-leg-left",
+          "name": "leg-left",
+          "pivot": [
+            108,
+            168
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-phone-filmer-classic-leg-right",
+          "name": "leg-right",
+          "pivot": [
+            133,
+            169
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-phone-filmer-classic-torso",
+          "name": "torso",
+          "pivot": [
+            120,
+            108
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-phone-filmer-classic-arm-far",
+          "name": "arm-far",
+          "pivot": [
+            100,
+            110
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-phone-filmer-classic-head",
+          "name": "head",
+          "pivot": [
+            120,
+            96
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-phone-filmer-classic-arm-raised",
+          "name": "arm-raised",
+          "pivot": [
+            139,
+            111
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-phone-filmer-classic-phone",
+          "name": "phone",
+          "pivot": [
+            181,
+            62
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-phone-filmer-classic-hand",
+          "name": "hand",
+          "pivot": [
+            179,
+            64
+          ],
+          "layer": 7
+        }
+      ]
+    },
+    {
+      "name": "Balloon kid",
+      "file": "icons/balloon-kid.svg",
+      "symbol": "bystander-balloon-kid-classic",
+      "parts": [
+        {
+          "id": "bystander-balloon-kid-classic-balloon",
+          "name": "balloon",
+          "pivot": [
+            181,
+            88
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-balloon-kid-classic-string",
+          "name": "string",
+          "pivot": [
+            154,
+            143
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-balloon-kid-classic-leg-left",
+          "name": "leg-left",
+          "pivot": [
+            99,
+            189
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-balloon-kid-classic-leg-right",
+          "name": "leg-right",
+          "pivot": [
+            115,
+            190
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-balloon-kid-classic-torso",
+          "name": "torso",
+          "pivot": [
+            104,
+            151
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-balloon-kid-classic-arm-left",
+          "name": "arm-left",
+          "pivot": [
+            84,
+            158
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-balloon-kid-classic-arm-right",
+          "name": "arm-right",
+          "pivot": [
+            123,
+            155
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-balloon-kid-classic-head",
+          "name": "head",
+          "pivot": [
+            105,
+            143
+          ],
+          "layer": 7
+        },
+        {
+          "id": "bystander-balloon-kid-classic-cap",
+          "name": "cap",
+          "pivot": [
+            105,
+            111
+          ],
+          "layer": 8
+        }
+      ]
+    },
+    {
+      "name": "Stroller parent",
+      "file": "icons/stroller-parent.svg",
+      "symbol": "bystander-stroller-parent-classic",
+      "parts": [
+        {
+          "id": "bystander-stroller-parent-classic-leg-left",
+          "name": "leg-left",
+          "pivot": [
+            84,
+            171
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-stroller-parent-classic-leg-right",
+          "name": "leg-right",
+          "pivot": [
+            104,
+            170
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-stroller-parent-classic-torso",
+          "name": "torso",
+          "pivot": [
+            93,
+            109
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-stroller-parent-classic-head",
+          "name": "head",
+          "pivot": [
+            95,
+            98
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-stroller-parent-classic-arm-back",
+          "name": "arm-back",
+          "pivot": [
+            74,
+            113
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-stroller-parent-classic-arm-push",
+          "name": "arm-push",
+          "pivot": [
+            112,
+            116
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-stroller-parent-classic-stroller-frame",
+          "name": "stroller-frame",
+          "pivot": [
+            185,
+            191
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-stroller-parent-classic-canopy",
+          "name": "canopy",
+          "pivot": [
+            197,
+            160
+          ],
+          "layer": 7
+        },
+        {
+          "id": "bystander-stroller-parent-classic-blanket",
+          "name": "blanket",
+          "pivot": [
+            192,
+            182
+          ],
+          "layer": 8
+        },
+        {
+          "id": "bystander-stroller-parent-classic-wheel-rear",
+          "name": "wheel-rear",
+          "pivot": [
+            178,
+            220
+          ],
+          "layer": 9
+        },
+        {
+          "id": "bystander-stroller-parent-classic-wheel-front",
+          "name": "wheel-front",
+          "pivot": [
+            221,
+            218
+          ],
+          "layer": 10
+        }
+      ]
+    },
+    {
+      "name": "Family on the move",
+      "file": "icons/family-on-the-move.svg",
+      "symbol": "bystander-family-on-the-move-classic",
+      "parts": [
+        {
+          "id": "bystander-family-on-the-move-classic-adult-leg-left",
+          "name": "adult-leg-left",
+          "pivot": [
+            88,
+            154
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-family-on-the-move-classic-adult-leg-right",
+          "name": "adult-leg-right",
+          "pivot": [
+            104,
+            155
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-family-on-the-move-classic-adult-torso",
+          "name": "adult-torso",
+          "pivot": [
+            96,
+            102
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-family-on-the-move-classic-adult-arm-back",
+          "name": "adult-arm-back",
+          "pivot": [
+            73,
+            108
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-family-on-the-move-classic-adult-head",
+          "name": "adult-head",
+          "pivot": [
+            95,
+            92
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-family-on-the-move-classic-child-leg-left",
+          "name": "child-leg-left",
+          "pivot": [
+            164,
+            184
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-family-on-the-move-classic-child-leg-right",
+          "name": "child-leg-right",
+          "pivot": [
+            179,
+            185
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-family-on-the-move-classic-child-torso",
+          "name": "child-torso",
+          "pivot": [
+            170,
+            148
+          ],
+          "layer": 7
+        },
+        {
+          "id": "bystander-family-on-the-move-classic-child-arm-free",
+          "name": "child-arm-free",
+          "pivot": [
+            187,
+            154
+          ],
+          "layer": 8
+        },
+        {
+          "id": "bystander-family-on-the-move-classic-joined-hands",
+          "name": "joined-hands",
+          "pivot": [
+            133,
+            146
+          ],
+          "layer": 9
+        },
+        {
+          "id": "bystander-family-on-the-move-classic-child-head",
+          "name": "child-head",
+          "pivot": [
+            167,
+            140
+          ],
+          "layer": 10
+        }
+      ]
+    },
+    {
+      "name": "Corny dog vendor",
+      "file": "icons/corny-dog-vendor.svg",
+      "symbol": "bystander-corny-dog-vendor-classic",
+      "parts": [
+        {
+          "id": "bystander-corny-dog-vendor-classic-head",
+          "name": "head",
+          "pivot": [
+            130,
+            89
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-corny-dog-vendor-classic-paper-hat",
+          "name": "paper-hat",
+          "pivot": [
+            130,
+            53
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-corny-dog-vendor-classic-torso",
+          "name": "torso",
+          "pivot": [
+            131,
+            105
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-corny-dog-vendor-classic-apron",
+          "name": "apron",
+          "pivot": [
+            132,
+            112
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-corny-dog-vendor-classic-arm-serve",
+          "name": "arm-serve",
+          "pivot": [
+            109,
+            110
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-corny-dog-vendor-classic-arm-right",
+          "name": "arm-right",
+          "pivot": [
+            151,
+            108
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-corny-dog-vendor-classic-corny-dog",
+          "name": "corny-dog",
+          "pivot": [
+            65,
+            114
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-corny-dog-vendor-classic-cart",
+          "name": "cart",
+          "pivot": [
+            144,
+            170
+          ],
+          "layer": 7
+        },
+        {
+          "id": "bystander-corny-dog-vendor-classic-cart-handle",
+          "name": "cart-handle",
+          "pivot": [
+            215,
+            152
+          ],
+          "layer": 8
+        },
+        {
+          "id": "bystander-corny-dog-vendor-classic-wheel-left",
+          "name": "wheel-left",
+          "pivot": [
+            94,
+            218
+          ],
+          "layer": 9
+        },
+        {
+          "id": "bystander-corny-dog-vendor-classic-wheel-right",
+          "name": "wheel-right",
+          "pivot": [
+            194,
+            213
+          ],
+          "layer": 10
+        }
+      ]
+    },
+    {
+      "name": "Coupon collector",
+      "file": "icons/coupon-collector.svg",
+      "symbol": "bystander-coupon-collector-classic",
+      "parts": [
+        {
+          "id": "bystander-coupon-collector-classic-leg-left",
+          "name": "leg-left",
+          "pivot": [
+            110,
+            169
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-coupon-collector-classic-leg-right",
+          "name": "leg-right",
+          "pivot": [
+            135,
+            169
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-coupon-collector-classic-torso",
+          "name": "torso",
+          "pivot": [
+            122,
+            109
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-coupon-collector-classic-head",
+          "name": "head",
+          "pivot": [
+            119,
+            98
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-coupon-collector-classic-arm-left",
+          "name": "arm-left",
+          "pivot": [
+            96,
+            115
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-coupon-collector-classic-arm-right",
+          "name": "arm-right",
+          "pivot": [
+            141,
+            114
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-coupon-collector-classic-tickets",
+          "name": "tickets",
+          "pivot": [
+            184,
+            125
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-coupon-collector-classic-hand",
+          "name": "hand",
+          "pivot": [
+            187,
+            136
+          ],
+          "layer": 7
+        }
+      ]
+    },
+    {
+      "name": "Unbothered local",
+      "file": "icons/unbothered-local.svg",
+      "symbol": "bystander-unbothered-local-classic",
+      "parts": [
+        {
+          "id": "bystander-unbothered-local-classic-leg-left",
+          "name": "leg-left",
+          "pivot": [
+            112,
+            185
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-unbothered-local-classic-leg-right",
+          "name": "leg-right",
+          "pivot": [
+            135,
+            185
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-unbothered-local-classic-body",
+          "name": "body",
+          "pivot": [
+            123,
+            114
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-unbothered-local-classic-hair",
+          "name": "hair",
+          "pivot": [
+            125,
+            69
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-unbothered-local-classic-head",
+          "name": "head",
+          "pivot": [
+            124,
+            100
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-unbothered-local-classic-glasses-bridge",
+          "name": "glasses-bridge",
+          "pivot": [
+            124,
+            75
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-unbothered-local-classic-arm-left",
+          "name": "arm-left",
+          "pivot": [
+            101,
+            119
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-unbothered-local-classic-arm-right",
+          "name": "arm-right",
+          "pivot": [
+            144,
+            118
+          ],
+          "layer": 7
+        },
+        {
+          "id": "bystander-unbothered-local-classic-handbag",
+          "name": "handbag",
+          "pivot": [
+            80,
+            176
+          ],
+          "layer": 8
+        }
+      ]
+    },
+    {
+      "name": "Lost tourist",
+      "file": "icons/lost-tourist.svg",
+      "symbol": "bystander-lost-tourist-classic",
+      "parts": [
+        {
+          "id": "bystander-lost-tourist-classic-leg-left",
+          "name": "leg-left",
+          "pivot": [
+            111,
+            178
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-lost-tourist-classic-leg-right",
+          "name": "leg-right",
+          "pivot": [
+            136,
+            178
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-lost-tourist-classic-torso",
+          "name": "torso",
+          "pivot": [
+            122,
+            111
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-lost-tourist-classic-head",
+          "name": "head",
+          "pivot": [
+            123,
+            105
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-lost-tourist-classic-hat",
+          "name": "hat",
+          "pivot": [
+            124,
+            66
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-lost-tourist-classic-arm-left",
+          "name": "arm-left",
+          "pivot": [
+            97,
+            119
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-lost-tourist-classic-arm-right",
+          "name": "arm-right",
+          "pivot": [
+            145,
+            117
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-lost-tourist-classic-map",
+          "name": "map",
+          "pivot": [
+            127,
+            150
+          ],
+          "layer": 7
+        }
+      ]
+    },
+    {
+      "name": "The runner",
+      "file": "icons/runner.svg",
+      "symbol": "bystander-runner-classic",
+      "parts": [
+        {
+          "id": "bystander-runner-classic-leg-back",
+          "name": "leg-back",
+          "pivot": [
+            135,
+            145
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-runner-classic-leg-front",
+          "name": "leg-front",
+          "pivot": [
+            151,
+            145
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-runner-classic-torso",
+          "name": "torso",
+          "pivot": [
+            144,
+            103
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-runner-classic-arm-back",
+          "name": "arm-back",
+          "pivot": [
+            122,
+            104
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-runner-classic-arm-front",
+          "name": "arm-front",
+          "pivot": [
+            161,
+            102
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-runner-classic-head",
+          "name": "head",
+          "pivot": [
+            142,
+            91
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-runner-classic-flying-cap",
+          "name": "flying-cap",
+          "pivot": [
+            73,
+            49
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-runner-classic-motion",
+          "name": "motion",
+          "pivot": [
+            53,
+            160
+          ],
+          "layer": 7
+        }
+      ]
+    },
+    {
+      "name": "Rolling out",
+      "file": "icons/rolling-out.svg",
+      "symbol": "bystander-rolling-out-classic",
+      "parts": [
+        {
+          "id": "bystander-rolling-out-classic-wheel-rear",
+          "name": "wheel-rear",
+          "pivot": [
+            108,
+            187
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-rolling-out-classic-chair-frame",
+          "name": "chair-frame",
+          "pivot": [
+            119,
+            171
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-rolling-out-classic-torso",
+          "name": "torso",
+          "pivot": [
+            117,
+            106
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-rolling-out-classic-head",
+          "name": "head",
+          "pivot": [
+            117,
+            94
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-rolling-out-classic-cap",
+          "name": "cap",
+          "pivot": [
+            117,
+            58
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-rolling-out-classic-legs",
+          "name": "legs",
+          "pivot": [
+            126,
+            156
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-rolling-out-classic-arm-push",
+          "name": "arm-push",
+          "pivot": [
+            129,
+            110
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-rolling-out-classic-hand",
+          "name": "hand",
+          "pivot": [
+            135,
+            161
+          ],
+          "layer": 7
+        },
+        {
+          "id": "bystander-rolling-out-classic-caster",
+          "name": "caster",
+          "pivot": [
+            203,
+            226
+          ],
+          "layer": 8
+        }
+      ]
+    },
+    {
+      "name": "Stuck on I-30",
+      "file": "icons/i30-driver.svg",
+      "symbol": "bystander-i30-driver-classic",
+      "parts": [
+        {
+          "id": "bystander-i30-driver-classic-car-body",
+          "name": "car-body",
+          "pivot": [
+            127,
+            186
+          ],
+          "layer": 0
+        },
+        {
+          "id": "bystander-i30-driver-classic-driver-torso",
+          "name": "driver-torso",
+          "pivot": [
+            115,
+            147
+          ],
+          "layer": 1
+        },
+        {
+          "id": "bystander-i30-driver-classic-driver-head",
+          "name": "driver-head",
+          "pivot": [
+            113,
+            133
+          ],
+          "layer": 2
+        },
+        {
+          "id": "bystander-i30-driver-classic-raised-arm",
+          "name": "raised-arm",
+          "pivot": [
+            133,
+            143
+          ],
+          "layer": 3
+        },
+        {
+          "id": "bystander-i30-driver-classic-raised-hand",
+          "name": "raised-hand",
+          "pivot": [
+            173,
+            86
+          ],
+          "layer": 4
+        },
+        {
+          "id": "bystander-i30-driver-classic-wheel-left",
+          "name": "wheel-left",
+          "pivot": [
+            65,
+            218
+          ],
+          "layer": 5
+        },
+        {
+          "id": "bystander-i30-driver-classic-wheel-right",
+          "name": "wheel-right",
+          "pivot": [
+            193,
+            215
+          ],
+          "layer": 6
+        },
+        {
+          "id": "bystander-i30-driver-classic-headlights",
+          "name": "headlights",
+          "pivot": [
+            128,
+            192
+          ],
+          "layer": 7
+        }
+      ]
+    }
+  ]
+}

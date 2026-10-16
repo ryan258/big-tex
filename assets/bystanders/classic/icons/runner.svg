@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bystander-runner-classic-title bystander-runner-classic-desc">
+  <title id="bystander-runner-classic-title">The runner</title>
+  <desc id="bystander-runner-classic-desc">A startled fairgoer sprints with a flying cap and a backward glance.</desc>
+  <g id="bystander-runner-classic-leg-back" data-part="leg-back" data-pivot="135 145"><path d="M130 139 149 147 135 178 105 188 96 218 81 218 84 180 117 165Z" fill="#191815"/></g>
+  <g id="bystander-runner-classic-leg-front" data-part="leg-front" data-pivot="151 145"><path d="M143 136 162 141 175 176 205 195 221 199 218 212 196 211 158 188Z" fill="#191815"/></g>
+  <g id="bystander-runner-classic-torso" data-part="torso" data-pivot="144 103"><path d="M121 89 151 83 169 102 166 144 135 161 111 127Z" fill="#C83E2D"/></g>
+  <g id="bystander-runner-classic-arm-back" data-part="arm-back" data-pivot="122 104"><path d="M114 96 128 107 98 128 77 113 68 93 79 88 91 105 99 110Z" fill="#191815"/></g>
+  <g id="bystander-runner-classic-arm-front" data-part="arm-front" data-pivot="161 102"><path d="M151 91 167 97 181 121 202 109 211 120 179 142 164 133Z" fill="#191815"/></g>
+  <g id="bystander-runner-classic-head" data-part="head" data-pivot="142 91"><path d="M124 49 149 45 164 61 160 81 142 98 123 87 117 66ZM123 64 132 61 132 69 125 73ZM142 59 151 58 150 67 144 70ZM136 78 146 74 146 85 138 88Z" fill="#191815" fill-rule="evenodd"/></g>
+  <g id="bystander-runner-classic-flying-cap" data-part="flying-cap" data-pivot="73 49"><path d="M44 44 58 30 80 33 92 43 102 41 108 49 79 58 49 55Z" fill="#D5A326"/></g>
+  <g id="bystander-runner-classic-motion" data-part="motion" data-pivot="53 160"><path d="M25 145 74 150 71 160 19 155ZM19 175 65 174 66 183 16 186ZM49 204 73 198 77 206 50 215Z" fill="#C83E2D"/></g>
+</svg>
