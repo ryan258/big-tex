@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Howdy, folks",
+    "start": 0,
+    "end": 8.083333333333334
+  },
+  {
+    "name": "Step right up",
+    "start": 8.083333333333334,
+    "end": 16
+  },
+  {
+    "name": "Everything is bigger",
+    "start": 16,
+    "end": 24
+  },
+  {
+    "name": "A freak storm",
+    "start": 24,
+    "end": 32
+  },
+  {
+    "name": "One strike",
+    "start": 32,
+    "end": 40
+  },
+  {
+    "name": "Steel underneath",
+    "start": 40,
+    "end": 47.916666666666664
+  },
+  {
+    "name": "Fifty-five feet of trouble",
+    "start": 47.916666666666664,
+    "end": 56.083333333333336
+  },
+  {
+    "name": "First footfall",
+    "start": 56.083333333333336,
+    "end": 63.833333333333336
+  },
+  {
+    "name": "Send everybody",
+    "start": 63.833333333333336,
+    "end": 72.16666666666667
+  },
+  {
+    "name": "Off the cables",
+    "start": 72.16666666666667,
+    "end": 80.16666666666667
+  },
+  {
+    "name": "The Midway is melting",
+    "start": 80.16666666666667,
+    "end": 88.16666666666667
+  },
+  {
+    "name": "Maximum voltage",
+    "start": 88.16666666666667,
+    "end": 96.08333333333333
+  },
+  {
+    "name": "Dallas after dark",
+    "start": 96.08333333333333,
+    "end": 104.08333333333333
+  },
+  {
+    "name": "Yee. Haw.",
+    "start": 104.08333333333333,
+    "end": 111.83333333333333
+  },
+  {
+    "name": "Big Tex",
+    "start": 111.83333333333333,
+    "end": 119.75
+  },
+  {
+    "name": "Rewired",
+    "start": 119.75,
+    "end": 127.91666666666667
+  },
+  {
+    "name": "See y’all next fall",
+    "start": 127.91666666666667,
+    "end": 136
+  },
+  {
+    "name": "End title",
+    "start": 136,
+    "end": 139.92
+  }
+]

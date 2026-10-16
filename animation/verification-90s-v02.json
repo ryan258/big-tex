@@ -1,0 +1,60 @@
+{
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "start_time": "0.000000",
+        "duration": "90.000000",
+        "nb_frames": "2160"
+      },
+      {
+        "codec_name": "aac",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "start_time": "0.000000",
+        "duration": "90.000000",
+        "nb_frames": "4220"
+      }
+    ],
+    "format": {
+      "duration": "90.000000",
+      "size": "19673057"
+    }
+  },
+  "shots": 50,
+  "cuts": 49,
+  "max_cut_to_detected_attack_error_ms": 20.0,
+  "audio_excerpt_correlations": [
+    {
+      "output_seconds": 10,
+      "source_seconds": 59.91999999999999,
+      "correlation": 0.9999301838101934
+    },
+    {
+      "output_seconds": 40,
+      "source_seconds": 89.91999999999999,
+      "correlation": 0.9997978386262059
+    },
+    {
+      "output_seconds": 80,
+      "source_seconds": 129.92,
+      "correlation": 0.9998562582360786
+    }
+  ],
+  "decoded_sample_times": [
+    3,
+    20.3,
+    46.2,
+    69.8,
+    73.4,
+    73.6,
+    85.8,
+    89.95
+  ],
+  "human_full_playback_review": false
+}

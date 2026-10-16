@@ -1,0 +1,14 @@
+{
+  "audio_sample": "60\u201364 seconds, decoded source WAV versus MP4 AAC, mono at 12 kHz",
+  "audio_correlation": 0.9999187604410154,
+  "sampled_video_frames_seconds": [
+    3,
+    12,
+    19,
+    35,
+    51,
+    58,
+    100,
+    123
+  ]
+}

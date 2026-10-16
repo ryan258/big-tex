@@ -1,0 +1,613 @@
+{
+  "duration": 30,
+  "fps": 24,
+  "score": "Hoooowdy, folks... Trailer Score (Epic Outlaw).wav",
+  "source_offset": 97.235,
+  "source_end": 127.235,
+  "selection_method": "Ranked continuous 30-second passages for a strong opening attack, a prominent title attack at 25.5–27.5 seconds, and strong action attacks between. Uses the 70% broadband / 30% bass spectral-flux evidence from timing-90s-v02.json.",
+  "opening_attack_strength": 1.2839,
+  "title_attack_strength": 2.0539,
+  "median_shot_seconds": 0.958333333333333,
+  "shots": [
+    {
+      "kind": "strike",
+      "start": 0,
+      "hit": {
+        "time": 0,
+        "strength": 1.2839
+      },
+      "end": 1.7083333333333333,
+      "duration": 1.7083333333333333,
+      "sync_error_ms": 0
+    },
+    {
+      "kind": "skull",
+      "start": 1.7083333333333333,
+      "hit": {
+        "time": 1.705,
+        "strength": 1.3868
+      },
+      "end": 3.0416666666666665,
+      "duration": 1.3333333333333333,
+      "sync_error_ms": 3.333
+    },
+    {
+      "kind": "hero",
+      "start": 3.0416666666666665,
+      "hit": {
+        "time": 3.035,
+        "strength": 0.9805
+      },
+      "end": 4.541666666666667,
+      "duration": 1.5000000000000004,
+      "sync_error_ms": 6.667
+    },
+    {
+      "kind": "pylon",
+      "start": 4.541666666666667,
+      "hit": {
+        "time": 4.55,
+        "strength": 1.2914
+      },
+      "end": 6.083333333333333,
+      "duration": 1.541666666666666,
+      "sync_error_ms": -8.333
+    },
+    {
+      "kind": "boot",
+      "start": 6.083333333333333,
+      "hit": {
+        "time": 6.07,
+        "strength": 1.0961
+      },
+      "end": 7.583333333333333,
+      "duration": 1.5,
+      "sync_error_ms": 13.333
+    },
+    {
+      "kind": "hand",
+      "start": 7.583333333333333,
+      "hit": {
+        "time": 7.59,
+        "strength": 1.2743
+      },
+      "end": 9.125,
+      "duration": 1.541666666666667,
+      "sync_error_ms": -6.667
+    },
+    {
+      "kind": "helicopter",
+      "start": 9.125,
+      "hit": {
+        "time": 9.105,
+        "strength": 1.1006
+      },
+      "end": 9.875,
+      "duration": 0.75,
+      "sync_error_ms": 20
+    },
+    {
+      "kind": "tank",
+      "start": 9.875,
+      "hit": {
+        "time": 9.865,
+        "strength": 0.9537
+      },
+      "end": 11.375,
+      "duration": 1.5,
+      "sync_error_ms": 10
+    },
+    {
+      "kind": "wheel",
+      "start": 11.375,
+      "hit": {
+        "time": 11.38,
+        "strength": 1.192
+      },
+      "end": 12.125,
+      "duration": 0.75,
+      "sync_error_ms": -5
+    },
+    {
+      "kind": "city",
+      "start": 12.125,
+      "hit": {
+        "time": 12.14,
+        "strength": 1.148
+      },
+      "end": 13.458333333333334,
+      "duration": 1.333333333333334,
+      "sync_error_ms": -15
+    },
+    {
+      "kind": "off-cables",
+      "start": 13.458333333333334,
+      "hit": {
+        "time": 13.465,
+        "strength": 1.4025
+      },
+      "end": 15.166666666666666,
+      "duration": 1.7083333333333321,
+      "sync_error_ms": -6.667
+    },
+    {
+      "kind": "hero",
+      "start": 15.166666666666666,
+      "hit": {
+        "time": 15.175,
+        "strength": 1.068
+      },
+      "end": 16.125,
+      "duration": 0.9583333333333339,
+      "sync_error_ms": -8.333
+    },
+    {
+      "kind": "hand",
+      "start": 16.125,
+      "hit": {
+        "time": 16.125,
+        "strength": 1.3699
+      },
+      "end": 17.625,
+      "duration": 1.5,
+      "sync_error_ms": 0
+    },
+    {
+      "kind": "skull",
+      "start": 17.625,
+      "hit": {
+        "time": 17.64,
+        "strength": 1.012
+      },
+      "end": 18.583333333333332,
+      "duration": 0.9583333333333321,
+      "sync_error_ms": -15
+    },
+    {
+      "kind": "boot",
+      "start": 18.583333333333332,
+      "hit": {
+        "time": 18.59,
+        "strength": 1.8337
+      },
+      "end": 19.166666666666668,
+      "duration": 0.5833333333333357,
+      "sync_error_ms": -6.667
+    },
+    {
+      "kind": "helicopter",
+      "start": 19.166666666666668,
+      "hit": {
+        "time": 19.155,
+        "strength": 1.5533
+      },
+      "end": 20.083333333333332,
+      "duration": 0.9166666666666643,
+      "sync_error_ms": 11.667
+    },
+    {
+      "kind": "tank",
+      "start": 20.083333333333332,
+      "hit": {
+        "time": 20.1,
+        "strength": 1.442
+      },
+      "end": 20.416666666666668,
+      "duration": 0.3333333333333357,
+      "sync_error_ms": -16.667
+    },
+    {
+      "kind": "wheel",
+      "start": 20.416666666666668,
+      "hit": {
+        "time": 20.435,
+        "strength": 0.3271
+      },
+      "end": 21.708333333333332,
+      "duration": 1.2916666666666643,
+      "sync_error_ms": -18.333
+    },
+    {
+      "kind": "pylon",
+      "start": 21.708333333333332,
+      "hit": {
+        "time": 21.695,
+        "strength": 0.3853
+      },
+      "end": 22.5,
+      "duration": 0.7916666666666679,
+      "sync_error_ms": 13.333
+    },
+    {
+      "kind": "hand",
+      "start": 22.5,
+      "hit": {
+        "time": 22.48,
+        "strength": 0.4048
+      },
+      "end": 23.25,
+      "duration": 0.75,
+      "sync_error_ms": 20
+    },
+    {
+      "kind": "skull",
+      "start": 23.25,
+      "hit": {
+        "time": 23.26,
+        "strength": 0.4211
+      },
+      "end": 23.791666666666668,
+      "duration": 0.5416666666666679,
+      "sync_error_ms": -10
+    },
+    {
+      "kind": "strike",
+      "start": 23.791666666666668,
+      "hit": {
+        "time": 23.795,
+        "strength": 0.1273
+      },
+      "end": 24.666666666666668,
+      "duration": 0.875,
+      "sync_error_ms": -3.333
+    },
+    {
+      "kind": "hero",
+      "start": 24.666666666666668,
+      "hit": {
+        "time": 24.65,
+        "strength": 1.5782
+      },
+      "end": 25.416666666666668,
+      "duration": 0.75,
+      "sync_error_ms": 16.667
+    },
+    {
+      "kind": "hand",
+      "start": 25.416666666666668,
+      "hit": {
+        "time": 25.41,
+        "strength": 1.7112
+      },
+      "end": 25.791666666666668,
+      "duration": 0.375,
+      "sync_error_ms": 6.667
+    },
+    {
+      "kind": "strike",
+      "start": 25.791666666666668,
+      "hit": {
+        "time": 25.785,
+        "strength": 1.7606
+      },
+      "end": 26.166666666666668,
+      "duration": 0.375,
+      "sync_error_ms": 6.667
+    },
+    {
+      "kind": "title",
+      "start": 26.166666666666668,
+      "hit": {
+        "time": 26.165,
+        "strength": 2.0539
+      },
+      "end": 30,
+      "duration": 3.833333333333332,
+      "sync_error_ms": 1.667
+    }
+  ],
+  "hits": [
+    {
+      "time": 0,
+      "strength": 1.2839
+    },
+    {
+      "time": 0.38,
+      "strength": 0.7262
+    },
+    {
+      "time": 0.76,
+      "strength": 1.1736
+    },
+    {
+      "time": 1.33,
+      "strength": 1.2549
+    },
+    {
+      "time": 1.705,
+      "strength": 1.3868
+    },
+    {
+      "time": 2.025,
+      "strength": 0.1725
+    },
+    {
+      "time": 2.275,
+      "strength": 0.9665
+    },
+    {
+      "time": 2.66,
+      "strength": 0.792
+    },
+    {
+      "time": 3.035,
+      "strength": 0.9805
+    },
+    {
+      "time": 3.42,
+      "strength": 0.6616
+    },
+    {
+      "time": 3.79,
+      "strength": 1.2033
+    },
+    {
+      "time": 4.19,
+      "strength": 0.7356
+    },
+    {
+      "time": 4.55,
+      "strength": 1.2914
+    },
+    {
+      "time": 4.94,
+      "strength": 0.9557
+    },
+    {
+      "time": 5.31,
+      "strength": 1.3731
+    },
+    {
+      "time": 5.7,
+      "strength": 0.829
+    },
+    {
+      "time": 6.07,
+      "strength": 1.0961
+    },
+    {
+      "time": 6.465,
+      "strength": 0.5774
+    },
+    {
+      "time": 6.825,
+      "strength": 1.2163
+    },
+    {
+      "time": 7.21,
+      "strength": 0.8362
+    },
+    {
+      "time": 7.59,
+      "strength": 1.2743
+    },
+    {
+      "time": 7.97,
+      "strength": 0.6918
+    },
+    {
+      "time": 8.345,
+      "strength": 1.3104
+    },
+    {
+      "time": 8.725,
+      "strength": 0.8593
+    },
+    {
+      "time": 9.105,
+      "strength": 1.1006
+    },
+    {
+      "time": 9.485,
+      "strength": 0.7003
+    },
+    {
+      "time": 9.865,
+      "strength": 0.9537
+    },
+    {
+      "time": 10.25,
+      "strength": 0.8781
+    },
+    {
+      "time": 10.625,
+      "strength": 1.359
+    },
+    {
+      "time": 11,
+      "strength": 0.7119
+    },
+    {
+      "time": 11.38,
+      "strength": 1.192
+    },
+    {
+      "time": 11.77,
+      "strength": 0.581
+    },
+    {
+      "time": 12.14,
+      "strength": 1.148
+    },
+    {
+      "time": 12.52,
+      "strength": 0.6314
+    },
+    {
+      "time": 12.9,
+      "strength": 1.3358
+    },
+    {
+      "time": 13.465,
+      "strength": 1.4025
+    },
+    {
+      "time": 13.85,
+      "strength": 0.9945
+    },
+    {
+      "time": 14.11,
+      "strength": 0.2699
+    },
+    {
+      "time": 14.6,
+      "strength": 1.2747
+    },
+    {
+      "time": 14.89,
+      "strength": 0.1687
+    },
+    {
+      "time": 15.175,
+      "strength": 1.068
+    },
+    {
+      "time": 15.555,
+      "strength": 1.692
+    },
+    {
+      "time": 15.835,
+      "strength": 0.1407
+    },
+    {
+      "time": 16.125,
+      "strength": 1.3699
+    },
+    {
+      "time": 16.69,
+      "strength": 1.0015
+    },
+    {
+      "time": 17.07,
+      "strength": 1.5828
+    },
+    {
+      "time": 17.35,
+      "strength": 0.1399
+    },
+    {
+      "time": 17.64,
+      "strength": 1.012
+    },
+    {
+      "time": 18.205,
+      "strength": 1.2802
+    },
+    {
+      "time": 18.59,
+      "strength": 1.8337
+    },
+    {
+      "time": 19.155,
+      "strength": 1.5533
+    },
+    {
+      "time": 19.535,
+      "strength": 1.4645
+    },
+    {
+      "time": 19.805,
+      "strength": 0.1951
+    },
+    {
+      "time": 20.1,
+      "strength": 1.442
+    },
+    {
+      "time": 20.435,
+      "strength": 0.3271
+    },
+    {
+      "time": 20.94,
+      "strength": 0.3129
+    },
+    {
+      "time": 21.33,
+      "strength": 0.1256
+    },
+    {
+      "time": 21.695,
+      "strength": 0.3853
+    },
+    {
+      "time": 22.06,
+      "strength": 0.3478
+    },
+    {
+      "time": 22.48,
+      "strength": 0.4048
+    },
+    {
+      "time": 23.26,
+      "strength": 0.4211
+    },
+    {
+      "time": 23.5,
+      "strength": 0.5426
+    },
+    {
+      "time": 23.795,
+      "strength": 0.1273
+    },
+    {
+      "time": 24.65,
+      "strength": 1.5782
+    },
+    {
+      "time": 25.03,
+      "strength": 1.478
+    },
+    {
+      "time": 25.41,
+      "strength": 1.7112
+    },
+    {
+      "time": 25.785,
+      "strength": 1.7606
+    },
+    {
+      "time": 26.165,
+      "strength": 2.0539
+    },
+    {
+      "time": 26.545,
+      "strength": 1.1544
+    },
+    {
+      "time": 26.925,
+      "strength": 0.6954
+    },
+    {
+      "time": 27.3,
+      "strength": 1.1211
+    },
+    {
+      "time": 27.685,
+      "strength": 0.7497
+    },
+    {
+      "time": 28.065,
+      "strength": 1.4423
+    },
+    {
+      "time": 28.445,
+      "strength": 0.9129
+    },
+    {
+      "time": 28.82,
+      "strength": 1.1458
+    },
+    {
+      "time": 29.2,
+      "strength": 1.0918
+    },
+    {
+      "time": 29.58,
+      "strength": 1.4646
+    },
+    {
+      "time": 29.96,
+      "strength": 0.955
+    }
+  ]
+}

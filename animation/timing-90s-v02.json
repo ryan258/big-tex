@@ -1,0 +1,1550 @@
+{
+  "duration": 90,
+  "source_offset": 49.91999999999999,
+  "score": "Hoooowdy, folks... Trailer Score (Epic Outlaw).wav",
+  "fps": 24,
+  "method": "Positive spectral-flux prominence, weighted 70% broadband / 30% bass; prominent local attacks guide narrative landmarks and action inserts. Nearest video-frame cut alignment.",
+  "shots": [
+    {
+      "start": 0,
+      "scene": 0,
+      "kind": "opening",
+      "hit": null,
+      "end": 3.3333333333333335,
+      "duration": 3.3333333333333335
+    },
+    {
+      "start": 3.3333333333333335,
+      "scene": 1,
+      "kind": "fairground",
+      "hit": {
+        "time": 3.315,
+        "strength": 0.9989
+      },
+      "end": 6.166666666666667,
+      "duration": 2.8333333333333335,
+      "sync_error_ms": 18.33
+    },
+    {
+      "start": 6.166666666666667,
+      "scene": 2,
+      "kind": "fairground",
+      "hit": {
+        "time": 6.165,
+        "strength": 1.3915
+      },
+      "end": 7.875,
+      "duration": 1.708333333333333,
+      "sync_error_ms": 1.67
+    },
+    {
+      "start": 7.875,
+      "scene": 3,
+      "kind": "storm",
+      "hit": {
+        "time": 7.87,
+        "strength": 1.0028
+      },
+      "end": 10.916666666666666,
+      "duration": 3.041666666666666,
+      "sync_error_ms": 5.0
+    },
+    {
+      "start": 10.916666666666666,
+      "scene": 4,
+      "kind": "strike",
+      "hit": {
+        "time": 10.905,
+        "strength": 1.0911
+      },
+      "end": 13.958333333333334,
+      "duration": 3.041666666666668,
+      "sync_error_ms": 11.67
+    },
+    {
+      "start": 13.958333333333334,
+      "scene": 5,
+      "kind": "awakening",
+      "hit": {
+        "time": 13.94,
+        "strength": 1.1792
+      },
+      "end": 16.958333333333332,
+      "duration": 2.9999999999999982,
+      "sync_error_ms": 18.33
+    },
+    {
+      "start": 16.958333333333332,
+      "scene": 6,
+      "kind": "reveal",
+      "hit": {
+        "time": 16.975,
+        "strength": 1.0774
+      },
+      "end": 20.208333333333332,
+      "duration": 3.25,
+      "sync_error_ms": -16.67
+    },
+    {
+      "start": 20.208333333333332,
+      "scene": 7,
+      "kind": "stomp",
+      "hit": {
+        "time": 20.205,
+        "strength": 0.3906
+      },
+      "end": 21.458333333333332,
+      "duration": 1.25,
+      "sync_error_ms": 3.33
+    },
+    {
+      "start": 21.458333333333332,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 21.465,
+        "strength": 0.3141
+      },
+      "montageIndex": 5,
+      "end": 23.416666666666668,
+      "duration": 1.9583333333333357,
+      "sync_error_ms": -6.67
+    },
+    {
+      "start": 23.416666666666668,
+      "scene": 8,
+      "kind": "response",
+      "hit": {
+        "time": 23.42,
+        "strength": 0.5961
+      },
+      "end": 26.083333333333332,
+      "duration": 2.6666666666666643,
+      "sync_error_ms": -3.33
+    },
+    {
+      "start": 26.083333333333332,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 26.075,
+        "strength": 1.2677
+      },
+      "montageIndex": 0,
+      "end": 26.833333333333332,
+      "duration": 0.75,
+      "sync_error_ms": 8.33
+    },
+    {
+      "start": 26.833333333333332,
+      "scene": 9,
+      "kind": "rupture",
+      "hit": {
+        "time": 26.835,
+        "strength": 1.3709
+      },
+      "end": 29.875,
+      "duration": 3.041666666666668,
+      "sync_error_ms": -1.67
+    },
+    {
+      "start": 29.875,
+      "scene": 10,
+      "kind": "havoc",
+      "hit": {
+        "time": 29.865,
+        "strength": 1.2566
+      },
+      "end": 31.375,
+      "duration": 1.5,
+      "sync_error_ms": 10.0
+    },
+    {
+      "start": 31.375,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 31.38,
+        "strength": 1.4106
+      },
+      "montageIndex": 6,
+      "end": 32.916666666666664,
+      "duration": 1.5416666666666643,
+      "sync_error_ms": -5.0
+    },
+    {
+      "start": 32.916666666666664,
+      "scene": 11,
+      "kind": "havoc",
+      "hit": {
+        "time": 32.9,
+        "strength": 1.322
+      },
+      "end": 34.416666666666664,
+      "duration": 1.5,
+      "sync_error_ms": 16.67
+    },
+    {
+      "start": 34.416666666666664,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 34.415,
+        "strength": 1.1971
+      },
+      "montageIndex": 1,
+      "end": 35.916666666666664,
+      "duration": 1.5,
+      "sync_error_ms": 1.67
+    },
+    {
+      "start": 35.916666666666664,
+      "scene": 12,
+      "kind": "havoc",
+      "hit": {
+        "time": 35.935,
+        "strength": 1.3408
+      },
+      "end": 37.458333333333336,
+      "duration": 1.5416666666666714,
+      "sync_error_ms": -18.33
+    },
+    {
+      "start": 37.458333333333336,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 37.45,
+        "strength": 1.1605
+      },
+      "montageIndex": 4,
+      "end": 39.333333333333336,
+      "duration": 1.875,
+      "sync_error_ms": 8.33
+    },
+    {
+      "start": 39.333333333333336,
+      "scene": 7,
+      "kind": "stomp",
+      "hit": {
+        "time": 39.35,
+        "strength": 0.9285
+      },
+      "end": 41.25,
+      "duration": 1.9166666666666643,
+      "sync_error_ms": -16.67
+    },
+    {
+      "start": 41.25,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 41.245,
+        "strength": 1.1341
+      },
+      "montageIndex": 7,
+      "end": 42.0,
+      "duration": 0.75,
+      "sync_error_ms": 5.0
+    },
+    {
+      "start": 42.0,
+      "scene": 8,
+      "kind": "response",
+      "hit": {
+        "time": 42.005,
+        "strength": 1.2845
+      },
+      "end": 44.291666666666664,
+      "duration": 2.2916666666666643,
+      "sync_error_ms": -5.0
+    },
+    {
+      "start": 44.291666666666664,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 44.28,
+        "strength": 1.1886
+      },
+      "montageIndex": 2,
+      "end": 45.041666666666664,
+      "duration": 0.75,
+      "sync_error_ms": 11.67
+    },
+    {
+      "start": 45.041666666666664,
+      "scene": 11,
+      "kind": "havoc",
+      "hit": {
+        "time": 45.035,
+        "strength": 0.8892
+      },
+      "end": 45.791666666666664,
+      "duration": 0.75,
+      "sync_error_ms": 6.67
+    },
+    {
+      "start": 45.791666666666664,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 45.795,
+        "strength": 1.2328
+      },
+      "montageIndex": 7,
+      "end": 47.333333333333336,
+      "duration": 1.5416666666666714,
+      "sync_error_ms": -3.33
+    },
+    {
+      "start": 47.333333333333336,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 47.315,
+        "strength": 1.2839
+      },
+      "montageIndex": 5,
+      "end": 48.083333333333336,
+      "duration": 0.75,
+      "sync_error_ms": 18.33
+    },
+    {
+      "start": 48.083333333333336,
+      "scene": 10,
+      "kind": "havoc",
+      "hit": {
+        "time": 48.075,
+        "strength": 1.1736
+      },
+      "end": 49.0,
+      "duration": 0.9166666666666643,
+      "sync_error_ms": 8.33
+    },
+    {
+      "start": 49.0,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 49.02,
+        "strength": 1.3868
+      },
+      "montageIndex": 2,
+      "end": 50.333333333333336,
+      "duration": 1.3333333333333357,
+      "sync_error_ms": -20.0
+    },
+    {
+      "start": 50.333333333333336,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 50.35,
+        "strength": 0.9805
+      },
+      "montageIndex": 0,
+      "end": 51.125,
+      "duration": 0.7916666666666643,
+      "sync_error_ms": -16.67
+    },
+    {
+      "start": 51.125,
+      "scene": 6,
+      "kind": "reveal",
+      "hit": {
+        "time": 51.105,
+        "strength": 1.2033
+      },
+      "end": 52.625,
+      "duration": 1.5,
+      "sync_error_ms": 20.0
+    },
+    {
+      "start": 52.625,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 52.625,
+        "strength": 1.3731
+      },
+      "montageIndex": 4,
+      "end": 54.125,
+      "duration": 1.5,
+      "sync_error_ms": 0.0
+    },
+    {
+      "start": 54.125,
+      "scene": 12,
+      "kind": "havoc",
+      "hit": {
+        "time": 54.14,
+        "strength": 1.2163
+      },
+      "end": 54.916666666666664,
+      "duration": 0.7916666666666643,
+      "sync_error_ms": -15.0
+    },
+    {
+      "start": 54.916666666666664,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 54.905,
+        "strength": 1.2743
+      },
+      "montageIndex": 7,
+      "end": 55.666666666666664,
+      "duration": 0.75,
+      "sync_error_ms": 11.67
+    },
+    {
+      "start": 55.666666666666664,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 55.66,
+        "strength": 1.3104
+      },
+      "montageIndex": 6,
+      "end": 57.166666666666664,
+      "duration": 1.5,
+      "sync_error_ms": 6.67
+    },
+    {
+      "start": 57.166666666666664,
+      "scene": 9,
+      "kind": "rupture",
+      "hit": {
+        "time": 57.18,
+        "strength": 0.9537
+      },
+      "end": 57.958333333333336,
+      "duration": 0.7916666666666714,
+      "sync_error_ms": -13.33
+    },
+    {
+      "start": 57.958333333333336,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 57.94,
+        "strength": 1.359
+      },
+      "montageIndex": 1,
+      "end": 60.208333333333336,
+      "duration": 2.25,
+      "sync_error_ms": 18.33
+    },
+    {
+      "start": 60.208333333333336,
+      "scene": 11,
+      "kind": "havoc",
+      "hit": {
+        "time": 60.215,
+        "strength": 1.3358
+      },
+      "end": 61.166666666666664,
+      "duration": 0.9583333333333286,
+      "sync_error_ms": -6.67
+    },
+    {
+      "start": 61.166666666666664,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 61.165,
+        "strength": 0.9945
+      },
+      "montageIndex": 4,
+      "end": 61.916666666666664,
+      "duration": 0.75,
+      "sync_error_ms": 1.67
+    },
+    {
+      "start": 61.916666666666664,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 61.915,
+        "strength": 1.2747
+      },
+      "montageIndex": 7,
+      "end": 62.875,
+      "duration": 0.9583333333333357,
+      "sync_error_ms": 1.67
+    },
+    {
+      "start": 62.875,
+      "scene": 7,
+      "kind": "stomp",
+      "hit": {
+        "time": 62.87,
+        "strength": 1.692
+      },
+      "end": 64.375,
+      "duration": 1.5,
+      "sync_error_ms": 5.0
+    },
+    {
+      "start": 64.375,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 64.385,
+        "strength": 1.5828
+      },
+      "montageIndex": 7,
+      "end": 64.95833333333333,
+      "duration": 0.5833333333333286,
+      "sync_error_ms": -10.0
+    },
+    {
+      "start": 64.95833333333333,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 64.955,
+        "strength": 1.012
+      },
+      "montageIndex": 2,
+      "end": 65.91666666666667,
+      "duration": 0.9583333333333428,
+      "sync_error_ms": 3.33
+    },
+    {
+      "start": 65.91666666666667,
+      "scene": 6,
+      "kind": "reveal",
+      "hit": {
+        "time": 65.905,
+        "strength": 1.8337
+      },
+      "end": 66.83333333333333,
+      "duration": 0.9166666666666572,
+      "sync_error_ms": 11.67
+    },
+    {
+      "start": 66.83333333333333,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 66.85,
+        "strength": 1.4645
+      },
+      "montageIndex": 1,
+      "end": 69.0,
+      "duration": 2.1666666666666714,
+      "sync_error_ms": -16.67
+    },
+    {
+      "start": 69.0,
+      "scene": 14,
+      "kind": "title",
+      "hit": {
+        "time": 69.01,
+        "strength": 0.3853
+      },
+      "end": 73.5,
+      "duration": 4.5,
+      "sync_error_ms": -10.0
+    },
+    {
+      "start": 73.5,
+      "scene": 15,
+      "kind": "title",
+      "hit": {
+        "time": 73.48,
+        "strength": 2.0539
+      },
+      "end": 76.875,
+      "duration": 3.375,
+      "sync_error_ms": 20.0
+    },
+    {
+      "start": 76.875,
+      "scene": 13,
+      "kind": "montage",
+      "hit": {
+        "time": 76.895,
+        "strength": 1.4646
+      },
+      "end": 77.66666666666667,
+      "duration": 0.7916666666666714,
+      "sync_error_ms": -20.0,
+      "montageIndex": 4
+    },
+    {
+      "start": 77.66666666666667,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 77.655,
+        "strength": 1.4559
+      },
+      "montageIndex": 6,
+      "end": 79.16666666666667,
+      "duration": 1.5,
+      "sync_error_ms": 11.67
+    },
+    {
+      "start": 79.16666666666667,
+      "scene": 13,
+      "kind": "hit-insert",
+      "hit": {
+        "time": 79.17,
+        "strength": 1.4806
+      },
+      "montageIndex": 3,
+      "end": 79.91666666666667,
+      "duration": 0.75,
+      "sync_error_ms": -3.33
+    },
+    {
+      "start": 79.91666666666667,
+      "scene": 16,
+      "kind": "stinger",
+      "hit": {
+        "time": 79.93,
+        "strength": 1.0941
+      },
+      "end": 85.04166666666667,
+      "duration": 5.125,
+      "sync_error_ms": -13.33
+    },
+    {
+      "start": 85.04166666666667,
+      "scene": 17,
+      "kind": "end-title",
+      "hit": {
+        "time": 85.05,
+        "strength": 1.0444
+      },
+      "end": 90,
+      "duration": 4.958333333333329,
+      "sync_error_ms": -8.33
+    }
+  ],
+  "hits": [
+    {
+      "time": 0.28,
+      "strength": 1.3661
+    },
+    {
+      "time": 0.665,
+      "strength": 1.0798
+    },
+    {
+      "time": 1.045,
+      "strength": 1.157
+    },
+    {
+      "time": 1.425,
+      "strength": 0.9028
+    },
+    {
+      "time": 1.8,
+      "strength": 1.2366
+    },
+    {
+      "time": 2.185,
+      "strength": 0.684
+    },
+    {
+      "time": 2.56,
+      "strength": 1.2489
+    },
+    {
+      "time": 2.94,
+      "strength": 0.8162
+    },
+    {
+      "time": 3.315,
+      "strength": 0.9989
+    },
+    {
+      "time": 3.7,
+      "strength": 1.062
+    },
+    {
+      "time": 4.095,
+      "strength": 0.4421
+    },
+    {
+      "time": 4.425,
+      "strength": 0.2109
+    },
+    {
+      "time": 4.67,
+      "strength": 0.2273
+    },
+    {
+      "time": 5.22,
+      "strength": 0.5969
+    },
+    {
+      "time": 5.625,
+      "strength": 0.15
+    },
+    {
+      "time": 6.165,
+      "strength": 1.3915
+    },
+    {
+      "time": 6.735,
+      "strength": 0.8388
+    },
+    {
+      "time": 7.11,
+      "strength": 1.0254
+    },
+    {
+      "time": 7.5,
+      "strength": 0.6886
+    },
+    {
+      "time": 7.87,
+      "strength": 1.0028
+    },
+    {
+      "time": 8.25,
+      "strength": 0.5992
+    },
+    {
+      "time": 8.63,
+      "strength": 1.2951
+    },
+    {
+      "time": 9.01,
+      "strength": 0.4321
+    },
+    {
+      "time": 9.385,
+      "strength": 1.2087
+    },
+    {
+      "time": 9.775,
+      "strength": 0.5519
+    },
+    {
+      "time": 10.14,
+      "strength": 0.8893
+    },
+    {
+      "time": 10.535,
+      "strength": 0.5492
+    },
+    {
+      "time": 10.905,
+      "strength": 1.0911
+    },
+    {
+      "time": 11.295,
+      "strength": 0.4473
+    },
+    {
+      "time": 11.665,
+      "strength": 0.878
+    },
+    {
+      "time": 12.045,
+      "strength": 0.7499
+    },
+    {
+      "time": 12.42,
+      "strength": 1.3416
+    },
+    {
+      "time": 12.81,
+      "strength": 0.7541
+    },
+    {
+      "time": 13.18,
+      "strength": 1.3063
+    },
+    {
+      "time": 13.565,
+      "strength": 0.7818
+    },
+    {
+      "time": 13.94,
+      "strength": 1.1792
+    },
+    {
+      "time": 14.315,
+      "strength": 0.5432
+    },
+    {
+      "time": 14.695,
+      "strength": 1.0687
+    },
+    {
+      "time": 15.085,
+      "strength": 0.7665
+    },
+    {
+      "time": 15.46,
+      "strength": 0.9059
+    },
+    {
+      "time": 15.835,
+      "strength": 0.7729
+    },
+    {
+      "time": 16.215,
+      "strength": 0.9319
+    },
+    {
+      "time": 16.6,
+      "strength": 0.5875
+    },
+    {
+      "time": 16.975,
+      "strength": 1.0774
+    },
+    {
+      "time": 17.355,
+      "strength": 0.781
+    },
+    {
+      "time": 17.73,
+      "strength": 0.821
+    },
+    {
+      "time": 18.11,
+      "strength": 0.7016
+    },
+    {
+      "time": 18.495,
+      "strength": 0.8095
+    },
+    {
+      "time": 18.875,
+      "strength": 0.8157
+    },
+    {
+      "time": 19.255,
+      "strength": 0.5326
+    },
+    {
+      "time": 19.605,
+      "strength": 0.1544
+    },
+    {
+      "time": 20.205,
+      "strength": 0.3906
+    },
+    {
+      "time": 20.46,
+      "strength": 0.1994
+    },
+    {
+      "time": 20.7,
+      "strength": 0.2537
+    },
+    {
+      "time": 21.05,
+      "strength": 0.1953
+    },
+    {
+      "time": 21.465,
+      "strength": 0.3141
+    },
+    {
+      "time": 21.745,
+      "strength": 0.1553
+    },
+    {
+      "time": 22.02,
+      "strength": 0.2321
+    },
+    {
+      "time": 22.275,
+      "strength": 0.2511
+    },
+    {
+      "time": 22.57,
+      "strength": 0.1556
+    },
+    {
+      "time": 23.42,
+      "strength": 0.5961
+    },
+    {
+      "time": 24.365,
+      "strength": 1.7334
+    },
+    {
+      "time": 24.75,
+      "strength": 0.8988
+    },
+    {
+      "time": 25.045,
+      "strength": 0.212
+    },
+    {
+      "time": 25.315,
+      "strength": 1.2338
+    },
+    {
+      "time": 25.7,
+      "strength": 0.6863
+    },
+    {
+      "time": 26.075,
+      "strength": 1.2677
+    },
+    {
+      "time": 26.455,
+      "strength": 0.9664
+    },
+    {
+      "time": 26.835,
+      "strength": 1.3709
+    },
+    {
+      "time": 27.22,
+      "strength": 0.7723
+    },
+    {
+      "time": 27.59,
+      "strength": 1.1087
+    },
+    {
+      "time": 27.975,
+      "strength": 0.8861
+    },
+    {
+      "time": 28.35,
+      "strength": 0.9886
+    },
+    {
+      "time": 28.735,
+      "strength": 0.7696
+    },
+    {
+      "time": 29.11,
+      "strength": 1.4635
+    },
+    {
+      "time": 29.49,
+      "strength": 0.8363
+    },
+    {
+      "time": 29.865,
+      "strength": 1.2566
+    },
+    {
+      "time": 30.245,
+      "strength": 0.9534
+    },
+    {
+      "time": 30.625,
+      "strength": 1.2022
+    },
+    {
+      "time": 31.005,
+      "strength": 0.9018
+    },
+    {
+      "time": 31.38,
+      "strength": 1.4106
+    },
+    {
+      "time": 31.765,
+      "strength": 0.8589
+    },
+    {
+      "time": 32.14,
+      "strength": 1.2275
+    },
+    {
+      "time": 32.525,
+      "strength": 0.8084
+    },
+    {
+      "time": 32.9,
+      "strength": 1.322
+    },
+    {
+      "time": 33.275,
+      "strength": 0.6905
+    },
+    {
+      "time": 33.66,
+      "strength": 1.0825
+    },
+    {
+      "time": 34.04,
+      "strength": 0.6807
+    },
+    {
+      "time": 34.415,
+      "strength": 1.1971
+    },
+    {
+      "time": 34.795,
+      "strength": 0.8927
+    },
+    {
+      "time": 35.175,
+      "strength": 1.1783
+    },
+    {
+      "time": 35.555,
+      "strength": 0.8579
+    },
+    {
+      "time": 35.935,
+      "strength": 1.3408
+    },
+    {
+      "time": 36.22,
+      "strength": 0.1004
+    },
+    {
+      "time": 36.5,
+      "strength": 1.1887
+    },
+    {
+      "time": 36.885,
+      "strength": 1.1248
+    },
+    {
+      "time": 37.195,
+      "strength": 0.1547
+    },
+    {
+      "time": 37.45,
+      "strength": 1.1605
+    },
+    {
+      "time": 37.835,
+      "strength": 0.702
+    },
+    {
+      "time": 38.205,
+      "strength": 0.8937
+    },
+    {
+      "time": 38.595,
+      "strength": 0.7498
+    },
+    {
+      "time": 38.965,
+      "strength": 1.1926
+    },
+    {
+      "time": 39.35,
+      "strength": 0.9285
+    },
+    {
+      "time": 39.725,
+      "strength": 1.0964
+    },
+    {
+      "time": 40.115,
+      "strength": 0.6374
+    },
+    {
+      "time": 40.485,
+      "strength": 1.0538
+    },
+    {
+      "time": 40.88,
+      "strength": 0.5925
+    },
+    {
+      "time": 41.245,
+      "strength": 1.1341
+    },
+    {
+      "time": 41.625,
+      "strength": 0.618
+    },
+    {
+      "time": 42.005,
+      "strength": 1.2845
+    },
+    {
+      "time": 42.395,
+      "strength": 0.7499
+    },
+    {
+      "time": 42.76,
+      "strength": 1.1633
+    },
+    {
+      "time": 43.145,
+      "strength": 0.9445
+    },
+    {
+      "time": 43.52,
+      "strength": 0.9457
+    },
+    {
+      "time": 43.91,
+      "strength": 0.69
+    },
+    {
+      "time": 44.28,
+      "strength": 1.1886
+    },
+    {
+      "time": 44.66,
+      "strength": 0.6858
+    },
+    {
+      "time": 45.035,
+      "strength": 0.8892
+    },
+    {
+      "time": 45.425,
+      "strength": 0.8797
+    },
+    {
+      "time": 45.795,
+      "strength": 1.2328
+    },
+    {
+      "time": 46.175,
+      "strength": 1.0026
+    },
+    {
+      "time": 46.555,
+      "strength": 0.9823
+    },
+    {
+      "time": 46.945,
+      "strength": 0.6547
+    },
+    {
+      "time": 47.315,
+      "strength": 1.2839
+    },
+    {
+      "time": 47.695,
+      "strength": 0.7262
+    },
+    {
+      "time": 48.075,
+      "strength": 1.1736
+    },
+    {
+      "time": 48.645,
+      "strength": 1.2549
+    },
+    {
+      "time": 49.02,
+      "strength": 1.3868
+    },
+    {
+      "time": 49.34,
+      "strength": 0.1725
+    },
+    {
+      "time": 49.59,
+      "strength": 0.9665
+    },
+    {
+      "time": 49.975,
+      "strength": 0.792
+    },
+    {
+      "time": 50.35,
+      "strength": 0.9805
+    },
+    {
+      "time": 50.735,
+      "strength": 0.6616
+    },
+    {
+      "time": 51.105,
+      "strength": 1.2033
+    },
+    {
+      "time": 51.505,
+      "strength": 0.7356
+    },
+    {
+      "time": 51.865,
+      "strength": 1.2914
+    },
+    {
+      "time": 52.255,
+      "strength": 0.9557
+    },
+    {
+      "time": 52.625,
+      "strength": 1.3731
+    },
+    {
+      "time": 53.015,
+      "strength": 0.829
+    },
+    {
+      "time": 53.385,
+      "strength": 1.0961
+    },
+    {
+      "time": 53.78,
+      "strength": 0.5774
+    },
+    {
+      "time": 54.14,
+      "strength": 1.2163
+    },
+    {
+      "time": 54.525,
+      "strength": 0.8362
+    },
+    {
+      "time": 54.905,
+      "strength": 1.2743
+    },
+    {
+      "time": 55.285,
+      "strength": 0.6918
+    },
+    {
+      "time": 55.66,
+      "strength": 1.3104
+    },
+    {
+      "time": 56.04,
+      "strength": 0.8593
+    },
+    {
+      "time": 56.42,
+      "strength": 1.1006
+    },
+    {
+      "time": 56.8,
+      "strength": 0.7003
+    },
+    {
+      "time": 57.18,
+      "strength": 0.9537
+    },
+    {
+      "time": 57.565,
+      "strength": 0.8781
+    },
+    {
+      "time": 57.94,
+      "strength": 1.359
+    },
+    {
+      "time": 58.315,
+      "strength": 0.7119
+    },
+    {
+      "time": 58.695,
+      "strength": 1.192
+    },
+    {
+      "time": 59.085,
+      "strength": 0.581
+    },
+    {
+      "time": 59.455,
+      "strength": 1.148
+    },
+    {
+      "time": 59.835,
+      "strength": 0.6314
+    },
+    {
+      "time": 60.215,
+      "strength": 1.3358
+    },
+    {
+      "time": 60.78,
+      "strength": 1.4025
+    },
+    {
+      "time": 61.165,
+      "strength": 0.9945
+    },
+    {
+      "time": 61.425,
+      "strength": 0.2699
+    },
+    {
+      "time": 61.915,
+      "strength": 1.2747
+    },
+    {
+      "time": 62.205,
+      "strength": 0.1687
+    },
+    {
+      "time": 62.49,
+      "strength": 1.068
+    },
+    {
+      "time": 62.87,
+      "strength": 1.692
+    },
+    {
+      "time": 63.15,
+      "strength": 0.1407
+    },
+    {
+      "time": 63.44,
+      "strength": 1.3699
+    },
+    {
+      "time": 64.005,
+      "strength": 1.0015
+    },
+    {
+      "time": 64.385,
+      "strength": 1.5828
+    },
+    {
+      "time": 64.665,
+      "strength": 0.1399
+    },
+    {
+      "time": 64.955,
+      "strength": 1.012
+    },
+    {
+      "time": 65.52,
+      "strength": 1.2802
+    },
+    {
+      "time": 65.905,
+      "strength": 1.8337
+    },
+    {
+      "time": 66.47,
+      "strength": 1.5533
+    },
+    {
+      "time": 66.85,
+      "strength": 1.4645
+    },
+    {
+      "time": 67.12,
+      "strength": 0.1951
+    },
+    {
+      "time": 67.415,
+      "strength": 1.442
+    },
+    {
+      "time": 67.75,
+      "strength": 0.3271
+    },
+    {
+      "time": 68.255,
+      "strength": 0.3129
+    },
+    {
+      "time": 68.645,
+      "strength": 0.1256
+    },
+    {
+      "time": 69.01,
+      "strength": 0.3853
+    },
+    {
+      "time": 69.375,
+      "strength": 0.3478
+    },
+    {
+      "time": 69.795,
+      "strength": 0.4048
+    },
+    {
+      "time": 70.575,
+      "strength": 0.4211
+    },
+    {
+      "time": 70.815,
+      "strength": 0.5426
+    },
+    {
+      "time": 71.11,
+      "strength": 0.1273
+    },
+    {
+      "time": 71.965,
+      "strength": 1.5782
+    },
+    {
+      "time": 72.345,
+      "strength": 1.478
+    },
+    {
+      "time": 72.725,
+      "strength": 1.7112
+    },
+    {
+      "time": 73.1,
+      "strength": 1.7606
+    },
+    {
+      "time": 73.48,
+      "strength": 2.0539
+    },
+    {
+      "time": 73.86,
+      "strength": 1.1544
+    },
+    {
+      "time": 74.24,
+      "strength": 0.6954
+    },
+    {
+      "time": 74.615,
+      "strength": 1.1211
+    },
+    {
+      "time": 75.0,
+      "strength": 0.7497
+    },
+    {
+      "time": 75.38,
+      "strength": 1.4423
+    },
+    {
+      "time": 75.76,
+      "strength": 0.9129
+    },
+    {
+      "time": 76.135,
+      "strength": 1.1458
+    },
+    {
+      "time": 76.515,
+      "strength": 1.0918
+    },
+    {
+      "time": 76.895,
+      "strength": 1.4646
+    },
+    {
+      "time": 77.275,
+      "strength": 0.955
+    },
+    {
+      "time": 77.655,
+      "strength": 1.4559
+    },
+    {
+      "time": 78.03,
+      "strength": 1.0955
+    },
+    {
+      "time": 78.415,
+      "strength": 1.2339
+    },
+    {
+      "time": 78.795,
+      "strength": 1.0761
+    },
+    {
+      "time": 79.17,
+      "strength": 1.4806
+    },
+    {
+      "time": 79.55,
+      "strength": 0.8241
+    },
+    {
+      "time": 79.93,
+      "strength": 1.0941
+    },
+    {
+      "time": 80.31,
+      "strength": 1.118
+    },
+    {
+      "time": 80.69,
+      "strength": 1.2503
+    },
+    {
+      "time": 81.07,
+      "strength": 1.1338
+    },
+    {
+      "time": 81.45,
+      "strength": 1.3405
+    },
+    {
+      "time": 81.825,
+      "strength": 0.9705
+    },
+    {
+      "time": 82.205,
+      "strength": 1.3244
+    },
+    {
+      "time": 82.585,
+      "strength": 1.1226
+    },
+    {
+      "time": 82.965,
+      "strength": 1.4927
+    },
+    {
+      "time": 83.345,
+      "strength": 0.896
+    },
+    {
+      "time": 83.725,
+      "strength": 1.1373
+    },
+    {
+      "time": 84.105,
+      "strength": 1.3582
+    },
+    {
+      "time": 84.67,
+      "strength": 1.1914
+    },
+    {
+      "time": 85.05,
+      "strength": 1.0444
+    },
+    {
+      "time": 85.425,
+      "strength": 1.056
+    },
+    {
+      "time": 85.925,
+      "strength": 0.4189
+    },
+    {
+      "time": 86.34,
+      "strength": 0.4735
+    },
+    {
+      "time": 86.73,
+      "strength": 0.6487
+    },
+    {
+      "time": 87.215,
+      "strength": 0.6353
+    },
+    {
+      "time": 87.555,
+      "strength": 0.4933
+    },
+    {
+      "time": 87.92,
+      "strength": 0.256
+    },
+    {
+      "time": 88.455,
+      "strength": 0.2206
+    },
+    {
+      "time": 88.77,
+      "strength": 0.2554
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "start_time": "0.000000",
+        "duration": "30.000000",
+        "nb_frames": "720"
+      },
+      {
+        "codec_name": "aac",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "start_time": "0.000000",
+        "duration": "30.000000",
+        "nb_frames": "1408"
+      }
+    ],
+    "format": {
+      "duration": "30.000000",
+      "size": "7067642"
+    }
+  },
+  "shots": 26,
+  "cuts": 25,
+  "max_cut_to_detected_attack_error_ms": 20,
+  "audio_excerpt_correlations": [
+    {
+      "output_seconds": 5,
+      "source_seconds": 102.235,
+      "correlation": 0.9998462156820804
+    },
+    {
+      "output_seconds": 15,
+      "source_seconds": 112.235,
+      "correlation": 0.999730637626254
+    },
+    {
+      "output_seconds": 25,
+      "source_seconds": 122.235,
+      "correlation": 0.9997437501821105
+    }
+  ],
+  "decoded_sample_times": [
+    0,
+    3.2,
+    13.7,
+    23.3,
+    25.5,
+    25.9,
+    26.2,
+    29.95
+  ],
+  "title_start": 26.166666666666668,
+  "first_frame": "lightning strike",
+  "last_frame": "BIG TEX: REWIRED title",
+  "human_full_playback_review": false
+}
