@@ -1,0 +1,618 @@
+{
+  "source_timeline": "../timeline.json",
+  "cast_source": "../../../../assets/bystanders/classic",
+  "characters": [
+    "phone-filmer",
+    "balloon-kid",
+    "snack-protector",
+    "unbothered-local",
+    "corny-dog-vendor",
+    "runner",
+    "family-on-the-move",
+    "lost-tourist",
+    "stroller-parent",
+    "i30-driver",
+    "rolling-out",
+    "coupon-collector"
+  ],
+  "placements": {
+    "hook": [
+      [
+        "phone-filmer",
+        115,
+        1705,
+        300,
+        "watch",
+        40
+      ],
+      [
+        "balloon-kid",
+        950,
+        1695,
+        300,
+        "watch",
+        -30
+      ]
+    ],
+    "strike": [
+      [
+        "snack-protector",
+        175,
+        1830,
+        430,
+        "flinch",
+        -20
+      ],
+      [
+        "phone-filmer",
+        910,
+        1830,
+        420,
+        "flinch",
+        20
+      ]
+    ],
+    "eyes": [
+      [
+        "balloon-kid",
+        180,
+        1840,
+        430,
+        "flinch",
+        -10
+      ],
+      [
+        "unbothered-local",
+        875,
+        1830,
+        390,
+        "watch",
+        0
+      ]
+    ],
+    "guard-card": [
+      [
+        "corny-dog-vendor",
+        240,
+        1830,
+        440,
+        "roll",
+        -70
+      ],
+      [
+        "runner",
+        840,
+        1835,
+        330,
+        "run",
+        170
+      ]
+    ],
+    "tank": [
+      [
+        "runner",
+        230,
+        1830,
+        370,
+        "run",
+        440
+      ]
+    ],
+    "hat-card": [
+      [
+        "family-on-the-move",
+        155,
+        1785,
+        400,
+        "run",
+        180
+      ],
+      [
+        "lost-tourist",
+        930,
+        1800,
+        315,
+        "watch",
+        -25
+      ]
+    ],
+    "hat-hit": [
+      [
+        "phone-filmer",
+        205,
+        1820,
+        480,
+        "flinch",
+        -35
+      ],
+      [
+        "stroller-parent",
+        780,
+        1840,
+        380,
+        "run",
+        290
+      ]
+    ],
+    "traffic-card": [
+      [
+        "i30-driver",
+        535,
+        1820,
+        490,
+        "flinch",
+        0
+      ]
+    ],
+    "traffic-jam": [
+      [
+        "i30-driver",
+        420,
+        1835,
+        560,
+        "flinch",
+        -15
+      ],
+      [
+        "unbothered-local",
+        915,
+        1705,
+        340,
+        "watch",
+        0
+      ]
+    ],
+    "traffic-punch": [
+      [
+        "i30-driver",
+        450,
+        1835,
+        560,
+        "flinch",
+        0
+      ],
+      [
+        "unbothered-local",
+        935,
+        1705,
+        340,
+        "watch",
+        0
+      ],
+      [
+        "lost-tourist",
+        95,
+        1675,
+        300,
+        "watch",
+        -10
+      ]
+    ],
+    "stomp": [
+      [
+        "runner",
+        135,
+        1830,
+        400,
+        "run",
+        730
+      ],
+      [
+        "rolling-out",
+        770,
+        1825,
+        370,
+        "roll",
+        -310
+      ]
+    ],
+    "wheel-rip": [
+      [
+        "balloon-kid",
+        135,
+        1835,
+        370,
+        "flinch",
+        -15
+      ],
+      [
+        "stroller-parent",
+        840,
+        1840,
+        390,
+        "run",
+        240
+      ]
+    ],
+    "wheel-roll": [
+      [
+        "family-on-the-move",
+        170,
+        1825,
+        430,
+        "run",
+        410
+      ],
+      [
+        "rolling-out",
+        805,
+        1830,
+        340,
+        "roll",
+        -230
+      ]
+    ],
+    "charged": [
+      [
+        "lost-tourist",
+        150,
+        1825,
+        410,
+        "flinch",
+        -30
+      ],
+      [
+        "rolling-out",
+        850,
+        1830,
+        375,
+        "roll",
+        -180
+      ]
+    ],
+    "march": [
+      [
+        "family-on-the-move",
+        155,
+        1835,
+        360,
+        "run",
+        210
+      ],
+      [
+        "stroller-parent",
+        825,
+        1830,
+        330,
+        "run",
+        240
+      ],
+      [
+        "runner",
+        500,
+        1830,
+        300,
+        "run",
+        230
+      ]
+    ],
+    "coupons": [
+      [
+        "coupon-collector",
+        240,
+        1820,
+        500,
+        "hide-tickets",
+        -25
+      ],
+      [
+        "unbothered-local",
+        900,
+        1810,
+        370,
+        "watch",
+        0
+      ]
+    ],
+    "corny-dog": [
+      [
+        "snack-protector",
+        180,
+        1820,
+        540,
+        "flinch",
+        -15
+      ],
+      [
+        "corny-dog-vendor",
+        880,
+        1840,
+        400,
+        "watch",
+        0
+      ]
+    ],
+    "hand": [
+      [
+        "phone-filmer",
+        905,
+        1830,
+        390,
+        "flinch",
+        15
+      ],
+      [
+        "lost-tourist",
+        160,
+        1825,
+        380,
+        "flinch",
+        -20
+      ]
+    ],
+    "end-title": []
+  },
+  "cues": [
+    {
+      "time": 0,
+      "strength": 1.2839,
+      "source": "shot attack"
+    },
+    {
+      "time": 0.75,
+      "strength": 1.1736,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 1.3333333333333333,
+      "strength": 1.2549,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 1.7083333333333333,
+      "strength": 1.3868,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 2.6666666666666665,
+      "strength": 0.792,
+      "source": "shot attack"
+    },
+    {
+      "time": 3.4166666666666665,
+      "strength": 0.6616,
+      "source": "shot attack"
+    },
+    {
+      "time": 3.7916666666666665,
+      "strength": 1.2033,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 4.208333333333333,
+      "strength": 0.7356,
+      "source": "shot attack"
+    },
+    {
+      "time": 4.541666666666667,
+      "strength": 1.2914,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 5.291666666666667,
+      "strength": 1.3731,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 6.083333333333333,
+      "strength": 1.0961,
+      "source": "shot attack"
+    },
+    {
+      "time": 6.458333333333333,
+      "strength": 0.5774,
+      "source": "shot attack"
+    },
+    {
+      "time": 6.833333333333333,
+      "strength": 1.2163,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 7.583333333333333,
+      "strength": 1.2743,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 8.333333333333334,
+      "strength": 1.3104,
+      "source": "shot attack"
+    },
+    {
+      "time": 9.875,
+      "strength": 0.9537,
+      "source": "shot attack"
+    },
+    {
+      "time": 10.625,
+      "strength": 1.359,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 11.375,
+      "strength": 1.192,
+      "source": "shot attack"
+    },
+    {
+      "time": 12.125,
+      "strength": 1.148,
+      "source": "shot attack"
+    },
+    {
+      "time": 12.916666666666666,
+      "strength": 1.3358,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 13.458333333333334,
+      "strength": 1.4025,
+      "source": "shot attack"
+    },
+    {
+      "time": 14.583333333333334,
+      "strength": 1.2747,
+      "source": "shot attack"
+    },
+    {
+      "time": 15.166666666666666,
+      "strength": 1.068,
+      "source": "shot attack"
+    },
+    {
+      "time": 15.541666666666666,
+      "strength": 1.692,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 16.125,
+      "strength": 1.3699,
+      "source": "shot attack"
+    },
+    {
+      "time": 17.083333333333332,
+      "strength": 1.5828,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 17.625,
+      "strength": 1.012,
+      "source": "shot attack"
+    },
+    {
+      "time": 18.208333333333332,
+      "strength": 1.2802,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 18.583333333333332,
+      "strength": 1.8337,
+      "source": "shot attack"
+    },
+    {
+      "time": 19.166666666666668,
+      "strength": 1.5533,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 19.541666666666668,
+      "strength": 1.4645,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 20.083333333333332,
+      "strength": 1.442,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 20.416666666666668,
+      "strength": 0.3271,
+      "source": "shot attack"
+    },
+    {
+      "time": 22.5,
+      "strength": 0.4048,
+      "source": "shot attack"
+    },
+    {
+      "time": 23.5,
+      "strength": 0.5426,
+      "source": "shot attack"
+    },
+    {
+      "time": 24.666666666666668,
+      "strength": 1.5782,
+      "source": "shot attack"
+    },
+    {
+      "time": 25.041666666666668,
+      "strength": 1.478,
+      "source": "prominent internal attack"
+    },
+    {
+      "time": 25.416666666666668,
+      "strength": 1.7112,
+      "source": "shot attack"
+    },
+    {
+      "time": 25.791666666666668,
+      "strength": 1.7606,
+      "source": "shot attack"
+    },
+    {
+      "time": 26.166666666666668,
+      "strength": 2.0539,
+      "source": "shot attack"
+    }
+  ],
+  "scale": {
+    "reference": "https://bigtex.com/about-us/big-tex/",
+    "big_tex_height_feet": 55,
+    "standing_adult_height_feet": 6,
+    "standing_adults_per_big_tex": 9.166666666666666,
+    "puppet_hat_to_sole_units": 773.40625,
+    "full_body_kinds": [
+      "hook",
+      "off-cables",
+      "march",
+      "hat-card",
+      "wheel-chase",
+      "pylon-rip",
+      "charged",
+      "aftermath",
+      "corny-dog"
+    ],
+    "characters": {
+      "snack-protector": {
+        "body_span_units": 184,
+        "reference_height_feet": 6
+      },
+      "phone-filmer": {
+        "body_span_units": 189,
+        "reference_height_feet": 6
+      },
+      "balloon-kid": {
+        "body_span_units": 142,
+        "reference_height_feet": 4
+      },
+      "stroller-parent": {
+        "body_span_units": 186,
+        "reference_height_feet": 6
+      },
+      "family-on-the-move": {
+        "body_span_units": 189,
+        "reference_height_feet": 6
+      },
+      "corny-dog-vendor": {
+        "body_span_units": 204,
+        "reference_height_feet": 6
+      },
+      "coupon-collector": {
+        "body_span_units": 188,
+        "reference_height_feet": 6
+      },
+      "unbothered-local": {
+        "body_span_units": 208,
+        "reference_height_feet": 6
+      },
+      "lost-tourist": {
+        "body_span_units": 198,
+        "reference_height_feet": 6
+      },
+      "runner": {
+        "body_span_units": 175,
+        "reference_height_feet": 6
+      },
+      "rolling-out": {
+        "body_span_units": 203,
+        "reference_height_feet": 4.5
+      },
+      "i30-driver": {
+        "body_span_units": 191,
+        "reference_height_feet": 6
+      }
+    },
+    "method": "Match visible body span to the per-shot puppet height. Exclude raised phones, balloons, flying hats, and stroller props from person height. Travel scales with character size. Close reactions without a full-body Tex remain larger."
+  },
+  "motion": "Group rotations use SVG pivots. Phones, hands, hats, balloons, and other attached props follow parent transformations. Movement is stepped at 12 fps; cuts and cue starts use 24 fps.",
+  "title_clear_from": 26.166666666666668
+}

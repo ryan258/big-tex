@@ -1,0 +1,594 @@
+{
+  "outputs": [
+    {
+      "file": "big-tex-rewired-v03-30s-vertical-bystanders-v02.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "24/1",
+            "start_time": "0.000000",
+            "duration": "30.000000",
+            "nb_frames": "720"
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0",
+            "start_time": "0.000000",
+            "duration": "30.000000",
+            "nb_frames": "1408"
+          }
+        ],
+        "format": {
+          "duration": "30.000000",
+          "size": "8678257"
+        }
+      },
+      "sha256": "bb8e6f062768f846ae0b5b58e19948a63582f43f4dcced9193704d6377aa2d72",
+      "parent_export_sha256": "0f054ea29a9ad93bf4e242885080cb341ab08385d2f26fcef91a1eb34bdced31",
+      "audio_stream_identical_to_parent": true,
+      "aac_adts_sha256": "aa9043d62c8d06e4b1330efcf4b7a080b280caaf3220cae03dcd7c96ab28a461",
+      "decoded_sample_times": [
+        0.125,
+        2.7916666666666665,
+        3.5416666666666665,
+        4.333333333333333,
+        6.208333333333333,
+        6.583333333333333,
+        8.458333333333334,
+        10.0,
+        11.5,
+        12.25,
+        13.583333333333334,
+        14.708333333333334,
+        15.291666666666666,
+        16.25,
+        17.75,
+        18.708333333333332,
+        20.541666666666668,
+        22.625,
+        23.625,
+        24.791666666666668,
+        25.541666666666668,
+        25.916666666666668,
+        26.291666666666668
+      ],
+      "decoded_contact_sheets": [
+        "decoded-teaser-1.jpg",
+        "decoded-teaser-2.jpg"
+      ],
+      "wheel_motion_sample_times": [
+        15.358333333333333,
+        15.549999999999999,
+        15.741666666666667,
+        15.933333333333334
+      ]
+    }
+  ],
+  "shot_count": 23,
+  "character_count": 12,
+  "characters": [
+    "phone-filmer",
+    "balloon-kid",
+    "snack-protector",
+    "unbothered-local",
+    "corny-dog-vendor",
+    "runner",
+    "family-on-the-move",
+    "lost-tourist",
+    "stroller-parent",
+    "i30-driver",
+    "rolling-out",
+    "coupon-collector"
+  ],
+  "reaction_cue_count": 40,
+  "scale": {
+    "reference": "https://bigtex.com/about-us/big-tex/",
+    "big_tex_height_feet": 55,
+    "standing_adult_height_feet": 6,
+    "standing_adults_per_big_tex": 9.166666666666666,
+    "puppet_hat_to_sole_units": 773.40625,
+    "full_body_kinds": [
+      "hook",
+      "off-cables",
+      "march",
+      "hat-card",
+      "wheel-chase",
+      "pylon-rip",
+      "charged",
+      "aftermath",
+      "corny-dog"
+    ],
+    "characters": {
+      "snack-protector": {
+        "body_span_units": 184,
+        "reference_height_feet": 6
+      },
+      "phone-filmer": {
+        "body_span_units": 189,
+        "reference_height_feet": 6
+      },
+      "balloon-kid": {
+        "body_span_units": 142,
+        "reference_height_feet": 4
+      },
+      "stroller-parent": {
+        "body_span_units": 186,
+        "reference_height_feet": 6
+      },
+      "family-on-the-move": {
+        "body_span_units": 189,
+        "reference_height_feet": 6
+      },
+      "corny-dog-vendor": {
+        "body_span_units": 204,
+        "reference_height_feet": 6
+      },
+      "coupon-collector": {
+        "body_span_units": 188,
+        "reference_height_feet": 6
+      },
+      "unbothered-local": {
+        "body_span_units": 208,
+        "reference_height_feet": 6
+      },
+      "lost-tourist": {
+        "body_span_units": 198,
+        "reference_height_feet": 6
+      },
+      "runner": {
+        "body_span_units": 175,
+        "reference_height_feet": 6
+      },
+      "rolling-out": {
+        "body_span_units": 203,
+        "reference_height_feet": 4.5
+      },
+      "i30-driver": {
+        "body_span_units": 191,
+        "reference_height_feet": 6
+      }
+    },
+    "method": "Match visible body span to the per-shot puppet height. Exclude raised phones, balloons, flying hats, and stroller props from person height. Travel scales with character size. Close reactions without a full-body Tex remain larger."
+  },
+  "parent_timeline_sha256": "13a7e0e8f3b711721831b0b4fd1cfe83d7ee5dff8d241e1ad6b40083e30445d3",
+  "lut_sha256": "2f4af38e6456b1429514dfdc11fc929beae659b2f63f189c1f0d6dc6509d31af",
+  "source_hashes": {
+    "animation/v3/art.cjs": "5dd46363635a2bf2b5fafeb9fe7da689610ed8563e04aec3ca115eae98f7f982",
+    "animation/v3/scenes.cjs": "5421f310274a1aaf0e342a5a843cac76f7d255e09a3ffed4fd12365529a0fc1f",
+    "animation/v3/bystander-scale.cjs": "1ce0ce64d1d7f40d5fe35b502f6b9f15e22f10fd112ca2f3a54d906977cf4136",
+    "animation/v3/teaser-30s/bystanders/cast.cjs": "ad1ed356f6f76115a1d3cbf8a33c2b422296f8e4035f83c334cf77eb51e7e727",
+    "animation/v3/teaser-30s/bystanders/render.cjs": "a02477109c3a5a12286b8bac71ce3b243327e6480f1931d425f1a89565a4fcb2",
+    "animation/v3/teaser-30s/bystanders/reactions.cjs": "c1d4727efd923cf7daad384b337eefae3b0afb59d69c2a2625f4c8c1494d544f"
+  },
+  "asset_hashes": {
+    "assets/bystanders/classic/icons/balloon-kid.svg": "e2a439f468b0aed0c4b7d4a15eb79509631175639279a490a382d9bc91e0a604",
+    "assets/bystanders/classic/icons/corny-dog-vendor.svg": "680ed915cef411cda635c876273bb8582b56e9bb4b2619421c4650fc38420731",
+    "assets/bystanders/classic/icons/coupon-collector.svg": "5d0ba5cc33721bb6f3d26d683bfcb48ebf782b92887469fa82cc1d01c206434c",
+    "assets/bystanders/classic/icons/family-on-the-move.svg": "e6c5b0fd8d803011cd0660a13527345ac29850a61392910c875f3662b8a89145",
+    "assets/bystanders/classic/icons/i30-driver.svg": "0a960e95f0d1782ef6189c7ad7ffbbe72e594d4745ef3ade98f12c02ab441b95",
+    "assets/bystanders/classic/icons/lost-tourist.svg": "5a6ebdb84b03b1dee4e556749df7bb4b94dcdf8f1543a5904a38c2dfe0743d73",
+    "assets/bystanders/classic/icons/phone-filmer.svg": "b9c2e1719b793084ee9c3dbacaf6b0b92514aa0d459f38c8653ce7174be133b0",
+    "assets/bystanders/classic/icons/rolling-out.svg": "5f5f9468cd131fd8ed737539d4b58b0efea9fdad6230611364d3112310542ead",
+    "assets/bystanders/classic/icons/runner.svg": "df60d98dbb12133e277b7654dd52a057d928c9cc5af9d8eaecba9da5c16b74e7",
+    "assets/bystanders/classic/icons/snack-protector.svg": "a01c9ade75cb3bf6a8ccdefd5074ba8c4bd0b3b6fa0a16f9d3beef95056b70d7",
+    "assets/bystanders/classic/icons/stroller-parent.svg": "bd7d764b263ee3243373a305319ebe1b8b32431a487c0327e2f0d0a52be2bc7c",
+    "assets/bystanders/classic/icons/unbothered-local.svg": "7faa35d1dc18cc17e92ee6f94526b52011dcfc430fcd91a9b6e7d3087288c623",
+    "assets/title-sequence/icons/big-tex.svg": "359085567d812aa7a09b790e90a77324e2c51965fee534278b3b4ae7b6edc5e7",
+    "assets/title-sequence/icons/corny-dog.svg": "943ecb363648f8289c792bc1256a820608b9a99ebc065a158aa662e5aaede381",
+    "assets/title-sequence/icons/cowboy-boot.svg": "4f9a8569ab8116e74d0767d06a2ed5e4fb812ba96f80de80540f72d778e0ef0e",
+    "assets/title-sequence/icons/cowboy-hat.svg": "0cda3ec336a8ba7b6277c66ae4655c47b97153ec0db67fc7cbf8a56678c7ab9a",
+    "assets/title-sequence/icons/dallas-skyline.svg": "bb3ac34b8a922720ea0442ba18a8ad7c3e4cc356723ec1250d270234759c2eb0",
+    "assets/title-sequence/icons/electric-hand.svg": "57a51cac8c153d3f9e2a7c18005ff52c14395dd756789845f446d9d07401c91a",
+    "assets/title-sequence/icons/ferris-wheel.svg": "996e4e49f6f8ed4a67503a2fd0f12a51e6db54d0c7e8ed6307318fe0184d9e5c",
+    "assets/title-sequence/icons/helicopter.svg": "6db23d07b4e4fffb3a21b447166654101b88e5ca9ad1ecc044e11a8cb2884ec2",
+    "assets/title-sequence/icons/lightning.svg": "e8ab3d6ae892d337b5cc550da2a51bd3ba94c5c406a4eebe3cfef043292fe213",
+    "assets/title-sequence/icons/power-tower.svg": "7947a013899f4d0253de5f371eeab7a455bd347e83d43a39c2d8a583260a69f4",
+    "assets/title-sequence/icons/steel-skull.svg": "aed02278e49f3144abf7bb70b99956623bb41a8b81c465f5f7bb7859352bce1e",
+    "assets/title-sequence/icons/tank.svg": "b0a1929ed1ba57f1fabedb2a5595adcc925e0332e993ddccec53c03ae37d37d5"
+  },
+  "cast_manifest_sha256": "c3443e5f3ff6341c42e3d0922f84b1844a1dde3ee29baa4fc93ca5758224dd88",
+  "cue_manifest_sha256": "bfaf376712124f2e1d21c93a232512d3ed073f0920ad7d9d2c59fd5e5fb733ce",
+  "motion_checks": {
+    "wheel_direction_and_distance_checks": [
+      {
+        "format": "wide",
+        "scene": "wheel-roll",
+        "travel_px": 1151.9999999999998,
+        "clockwise_degrees": 135.81221810508404,
+        "nominal_rim_arc_px": 1152.0000000000002
+      },
+      {
+        "format": "wide",
+        "scene": "wheel-chase",
+        "travel_px": 432.00000000000136,
+        "clockwise_degrees": 61.115498147287994,
+        "nominal_rim_arc_px": 432.00000000000125
+      },
+      {
+        "format": "vertical",
+        "scene": "wheel-roll",
+        "travel_px": 647.9999999999999,
+        "clockwise_degrees": 61.11549814728781,
+        "nominal_rim_arc_px": 648
+      },
+      {
+        "format": "vertical",
+        "scene": "wheel-chase",
+        "travel_px": 243.0000000000008,
+        "clockwise_degrees": 29.893450180738693,
+        "nominal_rim_arc_px": 243.00000000000074
+      }
+    ],
+    "full_body_scale_checks": [
+      {
+        "format": "wide",
+        "scene": "hook",
+        "character": "phone-filmer",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "hook",
+        "character": "balloon-kid",
+        "big_tex_to_person_height": 13.75
+      },
+      {
+        "format": "wide",
+        "scene": "off-cables",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "off-cables",
+        "character": "runner",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "march",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "march",
+        "character": "stroller-parent",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "march",
+        "character": "runner",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "hat-card",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "hat-card",
+        "character": "lost-tourist",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "wheel-chase",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "wheel-chase",
+        "character": "stroller-parent",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "wheel-chase",
+        "character": "rolling-out",
+        "big_tex_to_person_height": 12.222222222222221
+      },
+      {
+        "format": "wide",
+        "scene": "pylon-rip",
+        "character": "phone-filmer",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "pylon-rip",
+        "character": "rolling-out",
+        "big_tex_to_person_height": 12.222222222222221
+      },
+      {
+        "format": "wide",
+        "scene": "charged",
+        "character": "lost-tourist",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "charged",
+        "character": "rolling-out",
+        "big_tex_to_person_height": 12.222222222222221
+      },
+      {
+        "format": "wide",
+        "scene": "march",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "march",
+        "character": "stroller-parent",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "march",
+        "character": "runner",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "charged",
+        "character": "lost-tourist",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "charged",
+        "character": "rolling-out",
+        "big_tex_to_person_height": 12.222222222222221
+      },
+      {
+        "format": "wide",
+        "scene": "pylon-rip",
+        "character": "phone-filmer",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "pylon-rip",
+        "character": "rolling-out",
+        "big_tex_to_person_height": 12.222222222222221
+      },
+      {
+        "format": "wide",
+        "scene": "march",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "march",
+        "character": "stroller-parent",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "march",
+        "character": "runner",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "aftermath",
+        "character": "snack-protector",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "aftermath",
+        "character": "unbothered-local",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "wide",
+        "scene": "corny-dog",
+        "character": "snack-protector",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "wide",
+        "scene": "corny-dog",
+        "character": "corny-dog-vendor",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "hook",
+        "character": "phone-filmer",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "hook",
+        "character": "balloon-kid",
+        "big_tex_to_person_height": 13.75
+      },
+      {
+        "format": "vertical",
+        "scene": "off-cables",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "off-cables",
+        "character": "runner",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "march",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "march",
+        "character": "stroller-parent",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "march",
+        "character": "runner",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "hat-card",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "hat-card",
+        "character": "lost-tourist",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "wheel-chase",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "wheel-chase",
+        "character": "stroller-parent",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "pylon-rip",
+        "character": "phone-filmer",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "vertical",
+        "scene": "pylon-rip",
+        "character": "rolling-out",
+        "big_tex_to_person_height": 12.222222222222221
+      },
+      {
+        "format": "vertical",
+        "scene": "charged",
+        "character": "lost-tourist",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "vertical",
+        "scene": "charged",
+        "character": "rolling-out",
+        "big_tex_to_person_height": 12.222222222222221
+      },
+      {
+        "format": "vertical",
+        "scene": "march",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "march",
+        "character": "stroller-parent",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "march",
+        "character": "runner",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "charged",
+        "character": "lost-tourist",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "vertical",
+        "scene": "charged",
+        "character": "rolling-out",
+        "big_tex_to_person_height": 12.222222222222221
+      },
+      {
+        "format": "vertical",
+        "scene": "pylon-rip",
+        "character": "phone-filmer",
+        "big_tex_to_person_height": 9.166666666666668
+      },
+      {
+        "format": "vertical",
+        "scene": "pylon-rip",
+        "character": "rolling-out",
+        "big_tex_to_person_height": 12.222222222222221
+      },
+      {
+        "format": "vertical",
+        "scene": "march",
+        "character": "family-on-the-move",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "march",
+        "character": "stroller-parent",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "march",
+        "character": "runner",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "aftermath",
+        "character": "snack-protector",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "aftermath",
+        "character": "unbothered-local",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "corny-dog",
+        "character": "snack-protector",
+        "big_tex_to_person_height": 9.166666666666666
+      },
+      {
+        "format": "vertical",
+        "scene": "corny-dog",
+        "character": "corny-dog-vendor",
+        "big_tex_to_person_height": 9.166666666666666
+      }
+    ],
+    "character_count": 12,
+    "reaction_cue_count": 82,
+    "max_reaction_sync_error_ms": 20,
+    "title_intervals_clear": true
+  },
+  "syntax_checks_passed": true,
+  "decoded_frame_visual_review": false,
+  "human_full_playback_review": false,
+  "title_clear_from": 26.166666666666668
+}

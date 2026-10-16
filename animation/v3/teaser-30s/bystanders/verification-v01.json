@@ -1,0 +1,106 @@
+{
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "24/1",
+        "start_time": "0.000000",
+        "duration": "30.000000",
+        "nb_frames": "720"
+      },
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "start_time": "0.000000",
+        "duration": "30.000000",
+        "nb_frames": "1408"
+      }
+    ],
+    "format": {
+      "duration": "30.000000",
+      "size": "9363233"
+    }
+  },
+  "shot_count": 23,
+  "character_count": 12,
+  "characters": [
+    "phone-filmer",
+    "balloon-kid",
+    "snack-protector",
+    "unbothered-local",
+    "corny-dog-vendor",
+    "runner",
+    "family-on-the-move",
+    "lost-tourist",
+    "stroller-parent",
+    "i30-driver",
+    "rolling-out",
+    "coupon-collector"
+  ],
+  "reaction_cue_count": 40,
+  "max_reaction_cue_to_detected_attack_error_ms": 20.0,
+  "reaction_cues_on_24fps_frames": true,
+  "title_has_no_bystanders_from_seconds": 26.166666666666668,
+  "audio_stream_identical_to_parent": true,
+  "aac_adts_sha256": "aa9043d62c8d06e4b1330efcf4b7a080b280caaf3220cae03dcd7c96ab28a461",
+  "parent_export_unchanged_sha256": "0f054ea29a9ad93bf4e242885080cb341ab08385d2f26fcef91a1eb34bdced31",
+  "parent_timeline_sha256": "13a7e0e8f3b711721831b0b4fd1cfe83d7ee5dff8d241e1ad6b40083e30445d3",
+  "lut_sha256": "2f4af38e6456b1429514dfdc11fc929beae659b2f63f189c1f0d6dc6509d31af",
+  "output_sha256": "53ce4cf22e0276daf0aafad2570172c459baa81dad57d3337186192550ad3742",
+  "source_hashes": {
+    "cast.cjs": "6e9fb9050e21966ae6a1d733b671b836fafd36e7c42a4063c6898f4cb57a93ef",
+    "reactions.cjs": "431baa7ac535166de09ca1fafa6e5772baaf52c7df36d70e7dfa37d9153f2b6f",
+    "render.cjs": "fc0609e5d0fbdcfa092aa06c25dc212ce131115216d44f14c685afffd00d0478",
+    "reaction-cues.json": "3b6f331fd7e10bca0829081d81c86f934e8bb879367fab652ebd8a2474e57b67"
+  },
+  "shared_scene_source_sha256": "7bb8cffff98e7cf88213f09d287e38676a226c98e1a11f9aebde34f8d25df30e",
+  "cast_manifest_sha256": "c3443e5f3ff6341c42e3d0922f84b1844a1dde3ee29baa4fc93ca5758224dd88",
+  "cast_svg_sha256": {
+    "balloon-kid.svg": "e2a439f468b0aed0c4b7d4a15eb79509631175639279a490a382d9bc91e0a604",
+    "corny-dog-vendor.svg": "680ed915cef411cda635c876273bb8582b56e9bb4b2619421c4650fc38420731",
+    "coupon-collector.svg": "5d0ba5cc33721bb6f3d26d683bfcb48ebf782b92887469fa82cc1d01c206434c",
+    "family-on-the-move.svg": "e6c5b0fd8d803011cd0660a13527345ac29850a61392910c875f3662b8a89145",
+    "i30-driver.svg": "0a960e95f0d1782ef6189c7ad7ffbbe72e594d4745ef3ade98f12c02ab441b95",
+    "lost-tourist.svg": "5a6ebdb84b03b1dee4e556749df7bb4b94dcdf8f1543a5904a38c2dfe0743d73",
+    "phone-filmer.svg": "b9c2e1719b793084ee9c3dbacaf6b0b92514aa0d459f38c8653ce7174be133b0",
+    "rolling-out.svg": "5f5f9468cd131fd8ed737539d4b58b0efea9fdad6230611364d3112310542ead",
+    "runner.svg": "df60d98dbb12133e277b7654dd52a057d928c9cc5af9d8eaecba9da5c16b74e7",
+    "snack-protector.svg": "a01c9ade75cb3bf6a8ccdefd5074ba8c4bd0b3b6fa0a16f9d3beef95056b70d7",
+    "stroller-parent.svg": "bd7d764b263ee3243373a305319ebe1b8b32431a487c0327e2f0d0a52be2bc7c",
+    "unbothered-local.svg": "7faa35d1dc18cc17e92ee6f94526b52011dcfc430fcd91a9b6e7d3087288c623"
+  },
+  "node_syntax_checks_passed": [
+    "cast.cjs",
+    "reactions.cjs",
+    "render.cjs"
+  ],
+  "decoded_sample_times": [
+    0,
+    2.75,
+    4.5,
+    7.2,
+    8.375,
+    9.2,
+    10.2,
+    12.3,
+    13.55,
+    14.67,
+    15.25,
+    17.7,
+    18.67,
+    20.5,
+    23.6,
+    26.2,
+    29.95
+  ],
+  "title_28s_mean_absolute_rgb_difference_from_parent_0_to_255": 0.26675,
+  "decoded_frame_visual_review": true,
+  "human_full_playback_review": false,
+  "visual_review_scope": "Seventeen decoded MP4 samples, plus full-resolution strike, hand, and wheel-rip frames; contrast, typography, foreground placement, and clear ending title inspected."
+}

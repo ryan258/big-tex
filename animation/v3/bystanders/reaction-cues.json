@@ -1,0 +1,1808 @@
+{
+  "source_timeline": "../timeline.json",
+  "cast_source": "../../../assets/bystanders/classic",
+  "characters": [
+    "phone-filmer",
+    "balloon-kid",
+    "snack-protector",
+    "unbothered-local",
+    "corny-dog-vendor",
+    "runner",
+    "family-on-the-move",
+    "lost-tourist",
+    "stroller-parent",
+    "i30-driver",
+    "rolling-out",
+    "coupon-collector"
+  ],
+  "layouts": {
+    "wide": {
+      "hook": [
+        [
+          "phone-filmer",
+          315,
+          1010,
+          290,
+          "watch",
+          30
+        ],
+        [
+          "balloon-kid",
+          1780,
+          1015,
+          280,
+          "watch",
+          -15
+        ]
+      ],
+      "strike": [
+        [
+          "snack-protector",
+          240,
+          1025,
+          340,
+          "flinch",
+          -20
+        ],
+        [
+          "phone-filmer",
+          1680,
+          1020,
+          345,
+          "flinch",
+          15
+        ]
+      ],
+      "eyes": [
+        [
+          "balloon-kid",
+          220,
+          1035,
+          330,
+          "flinch",
+          -10
+        ],
+        [
+          "unbothered-local",
+          1690,
+          1025,
+          300,
+          "watch",
+          0
+        ]
+      ],
+      "off-cables": [
+        [
+          "family-on-the-move",
+          255,
+          1020,
+          350,
+          "run",
+          540
+        ],
+        [
+          "runner",
+          1640,
+          1025,
+          315,
+          "run",
+          400
+        ]
+      ],
+      "stomp": [
+        [
+          "runner",
+          250,
+          1025,
+          360,
+          "run",
+          1060
+        ],
+        [
+          "rolling-out",
+          1610,
+          1025,
+          330,
+          "roll",
+          -500
+        ]
+      ],
+      "march": [
+        [
+          "family-on-the-move",
+          240,
+          1035,
+          330,
+          "run",
+          430
+        ],
+        [
+          "stroller-parent",
+          1620,
+          1035,
+          300,
+          "run",
+          350
+        ],
+        [
+          "runner",
+          930,
+          1030,
+          280,
+          "run",
+          350
+        ]
+      ],
+      "guard-card": [
+        [
+          "corny-dog-vendor",
+          265,
+          1030,
+          380,
+          "roll",
+          -70
+        ],
+        [
+          "runner",
+          1570,
+          1030,
+          300,
+          "run",
+          400
+        ]
+      ],
+      "tank": [
+        [
+          "runner",
+          320,
+          1030,
+          330,
+          "run",
+          1050
+        ],
+        [
+          "rolling-out",
+          1690,
+          1030,
+          300,
+          "roll",
+          -250
+        ]
+      ],
+      "helicopter": [
+        [
+          "phone-filmer",
+          300,
+          1025,
+          365,
+          "flinch",
+          -15
+        ],
+        [
+          "snack-protector",
+          1660,
+          1025,
+          330,
+          "flinch",
+          10
+        ]
+      ],
+      "hat-card": [
+        [
+          "family-on-the-move",
+          265,
+          1025,
+          350,
+          "run",
+          330
+        ],
+        [
+          "lost-tourist",
+          1770,
+          1025,
+          300,
+          "watch",
+          -20
+        ]
+      ],
+      "hat-hit": [
+        [
+          "phone-filmer",
+          330,
+          1030,
+          430,
+          "flinch",
+          -25
+        ],
+        [
+          "stroller-parent",
+          1540,
+          1035,
+          330,
+          "run",
+          420
+        ]
+      ],
+      "traffic-card": [
+        [
+          "i30-driver",
+          600,
+          1030,
+          430,
+          "flinch",
+          0
+        ],
+        [
+          "lost-tourist",
+          1750,
+          1015,
+          280,
+          "watch",
+          0
+        ]
+      ],
+      "traffic-jam": [
+        [
+          "i30-driver",
+          535,
+          1030,
+          460,
+          "flinch",
+          -10
+        ],
+        [
+          "unbothered-local",
+          1750,
+          1020,
+          290,
+          "watch",
+          0
+        ]
+      ],
+      "traffic-punch": [
+        [
+          "i30-driver",
+          590,
+          1030,
+          470,
+          "flinch",
+          0
+        ],
+        [
+          "lost-tourist",
+          200,
+          1025,
+          285,
+          "watch",
+          -10
+        ],
+        [
+          "unbothered-local",
+          1740,
+          1020,
+          300,
+          "watch",
+          0
+        ]
+      ],
+      "wheel-card": [
+        [
+          "balloon-kid",
+          285,
+          1025,
+          330,
+          "flinch",
+          -15
+        ],
+        [
+          "lost-tourist",
+          1745,
+          1025,
+          320,
+          "watch",
+          -15
+        ]
+      ],
+      "wheel-rip": [
+        [
+          "balloon-kid",
+          240,
+          1030,
+          330,
+          "flinch",
+          -10
+        ],
+        [
+          "stroller-parent",
+          1640,
+          1035,
+          340,
+          "run",
+          280
+        ]
+      ],
+      "wheel-roll": [
+        [
+          "family-on-the-move",
+          260,
+          1035,
+          350,
+          "run",
+          540
+        ],
+        [
+          "rolling-out",
+          1610,
+          1035,
+          320,
+          "roll",
+          -400
+        ]
+      ],
+      "wheel-chase": [
+        [
+          "family-on-the-move",
+          230,
+          1035,
+          340,
+          "run",
+          500
+        ],
+        [
+          "stroller-parent",
+          1450,
+          1035,
+          320,
+          "run",
+          440
+        ],
+        [
+          "rolling-out",
+          1050,
+          1030,
+          300,
+          "roll",
+          -300
+        ]
+      ],
+      "charger-card": [
+        [
+          "lost-tourist",
+          300,
+          1030,
+          360,
+          "flinch",
+          -15
+        ],
+        [
+          "coupon-collector",
+          1690,
+          1030,
+          330,
+          "hide-tickets",
+          0
+        ]
+      ],
+      "pylon-rip": [
+        [
+          "phone-filmer",
+          230,
+          1030,
+          370,
+          "flinch",
+          -15
+        ],
+        [
+          "rolling-out",
+          1710,
+          1030,
+          330,
+          "roll",
+          -200
+        ]
+      ],
+      "hand": [
+        [
+          "lost-tourist",
+          230,
+          1030,
+          340,
+          "flinch",
+          -15
+        ],
+        [
+          "phone-filmer",
+          1700,
+          1030,
+          355,
+          "flinch",
+          15
+        ]
+      ],
+      "charged": [
+        [
+          "lost-tourist",
+          260,
+          1030,
+          360,
+          "flinch",
+          -20
+        ],
+        [
+          "rolling-out",
+          1710,
+          1030,
+          330,
+          "roll",
+          -200
+        ]
+      ],
+      "city": [
+        [
+          "family-on-the-move",
+          260,
+          1030,
+          350,
+          "run",
+          500
+        ],
+        [
+          "runner",
+          1530,
+          1030,
+          315,
+          "run",
+          400
+        ],
+        [
+          "stroller-parent",
+          990,
+          1035,
+          300,
+          "run",
+          300
+        ]
+      ],
+      "skull": [
+        [
+          "snack-protector",
+          250,
+          1030,
+          350,
+          "flinch",
+          -15
+        ],
+        [
+          "phone-filmer",
+          1700,
+          1030,
+          340,
+          "flinch",
+          15
+        ]
+      ],
+      "tex-card": [
+        [
+          "phone-filmer",
+          285,
+          1030,
+          350,
+          "flinch",
+          -15
+        ],
+        [
+          "unbothered-local",
+          1770,
+          1025,
+          305,
+          "watch",
+          0
+        ]
+      ],
+      "main-title": [],
+      "aftermath": [
+        [
+          "snack-protector",
+          300,
+          1030,
+          350,
+          "flinch",
+          -15
+        ],
+        [
+          "unbothered-local",
+          1700,
+          1025,
+          330,
+          "watch",
+          0
+        ]
+      ],
+      "coupons": [
+        [
+          "coupon-collector",
+          420,
+          1030,
+          465,
+          "hide-tickets",
+          -15
+        ],
+        [
+          "unbothered-local",
+          1030,
+          1025,
+          320,
+          "watch",
+          0
+        ]
+      ],
+      "corny-dog": [
+        [
+          "snack-protector",
+          340,
+          1030,
+          450,
+          "flinch",
+          -10
+        ],
+        [
+          "corny-dog-vendor",
+          1710,
+          1040,
+          360,
+          "watch",
+          0
+        ]
+      ],
+      "end-title": []
+    },
+    "portrait": {
+      "hook": [
+        [
+          "phone-filmer",
+          115,
+          1705,
+          300,
+          "watch",
+          40
+        ],
+        [
+          "balloon-kid",
+          950,
+          1695,
+          300,
+          "watch",
+          -30
+        ]
+      ],
+      "strike": [
+        [
+          "snack-protector",
+          175,
+          1830,
+          430,
+          "flinch",
+          -20
+        ],
+        [
+          "phone-filmer",
+          910,
+          1830,
+          420,
+          "flinch",
+          20
+        ]
+      ],
+      "eyes": [
+        [
+          "balloon-kid",
+          180,
+          1840,
+          430,
+          "flinch",
+          -10
+        ],
+        [
+          "unbothered-local",
+          875,
+          1830,
+          390,
+          "watch",
+          0
+        ]
+      ],
+      "guard-card": [
+        [
+          "corny-dog-vendor",
+          240,
+          1830,
+          440,
+          "roll",
+          -70
+        ],
+        [
+          "runner",
+          840,
+          1835,
+          330,
+          "run",
+          170
+        ]
+      ],
+      "tank": [
+        [
+          "runner",
+          230,
+          1830,
+          370,
+          "run",
+          440
+        ]
+      ],
+      "hat-card": [
+        [
+          "family-on-the-move",
+          155,
+          1785,
+          400,
+          "run",
+          180
+        ],
+        [
+          "lost-tourist",
+          930,
+          1800,
+          315,
+          "watch",
+          -25
+        ]
+      ],
+      "hat-hit": [
+        [
+          "phone-filmer",
+          205,
+          1820,
+          480,
+          "flinch",
+          -35
+        ],
+        [
+          "stroller-parent",
+          780,
+          1840,
+          380,
+          "run",
+          290
+        ]
+      ],
+      "traffic-card": [
+        [
+          "i30-driver",
+          535,
+          1820,
+          490,
+          "flinch",
+          0
+        ]
+      ],
+      "traffic-jam": [
+        [
+          "i30-driver",
+          420,
+          1835,
+          560,
+          "flinch",
+          -15
+        ],
+        [
+          "unbothered-local",
+          915,
+          1705,
+          340,
+          "watch",
+          0
+        ]
+      ],
+      "traffic-punch": [
+        [
+          "i30-driver",
+          450,
+          1835,
+          560,
+          "flinch",
+          0
+        ],
+        [
+          "unbothered-local",
+          935,
+          1705,
+          340,
+          "watch",
+          0
+        ],
+        [
+          "lost-tourist",
+          95,
+          1675,
+          300,
+          "watch",
+          -10
+        ]
+      ],
+      "stomp": [
+        [
+          "runner",
+          135,
+          1830,
+          400,
+          "run",
+          730
+        ],
+        [
+          "rolling-out",
+          770,
+          1825,
+          370,
+          "roll",
+          -310
+        ]
+      ],
+      "wheel-rip": [
+        [
+          "balloon-kid",
+          135,
+          1835,
+          370,
+          "flinch",
+          -15
+        ],
+        [
+          "stroller-parent",
+          840,
+          1840,
+          390,
+          "run",
+          240
+        ]
+      ],
+      "wheel-roll": [
+        [
+          "family-on-the-move",
+          170,
+          1825,
+          430,
+          "run",
+          410
+        ],
+        [
+          "rolling-out",
+          805,
+          1830,
+          340,
+          "roll",
+          -230
+        ]
+      ],
+      "charged": [
+        [
+          "lost-tourist",
+          150,
+          1825,
+          410,
+          "flinch",
+          -30
+        ],
+        [
+          "rolling-out",
+          850,
+          1830,
+          375,
+          "roll",
+          -180
+        ]
+      ],
+      "march": [
+        [
+          "family-on-the-move",
+          155,
+          1835,
+          360,
+          "run",
+          210
+        ],
+        [
+          "stroller-parent",
+          825,
+          1830,
+          330,
+          "run",
+          240
+        ],
+        [
+          "runner",
+          500,
+          1830,
+          300,
+          "run",
+          230
+        ]
+      ],
+      "coupons": [
+        [
+          "coupon-collector",
+          240,
+          1820,
+          500,
+          "hide-tickets",
+          -25
+        ],
+        [
+          "unbothered-local",
+          900,
+          1810,
+          370,
+          "watch",
+          0
+        ]
+      ],
+      "corny-dog": [
+        [
+          "snack-protector",
+          180,
+          1820,
+          540,
+          "flinch",
+          -15
+        ],
+        [
+          "corny-dog-vendor",
+          880,
+          1840,
+          400,
+          "watch",
+          0
+        ]
+      ],
+      "hand": [
+        [
+          "phone-filmer",
+          905,
+          1830,
+          390,
+          "flinch",
+          15
+        ],
+        [
+          "lost-tourist",
+          160,
+          1825,
+          380,
+          "flinch",
+          -20
+        ]
+      ],
+      "end-title": [],
+      "off-cables": [
+        [
+          "family-on-the-move",
+          160,
+          1835,
+          390,
+          "run",
+          390
+        ],
+        [
+          "runner",
+          830,
+          1830,
+          340,
+          "run",
+          410
+        ]
+      ],
+      "helicopter": [
+        [
+          "phone-filmer",
+          195,
+          1820,
+          430,
+          "flinch",
+          -20
+        ],
+        [
+          "snack-protector",
+          880,
+          1830,
+          390,
+          "flinch",
+          10
+        ]
+      ],
+      "wheel-card": [
+        [
+          "balloon-kid",
+          140,
+          1825,
+          370,
+          "flinch",
+          -15
+        ],
+        [
+          "lost-tourist",
+          910,
+          1820,
+          360,
+          "watch",
+          -20
+        ]
+      ],
+      "wheel-chase": [
+        [
+          "family-on-the-move",
+          145,
+          1835,
+          380,
+          "run",
+          390
+        ],
+        [
+          "stroller-parent",
+          820,
+          1840,
+          340,
+          "run",
+          300
+        ]
+      ],
+      "charger-card": [
+        [
+          "lost-tourist",
+          170,
+          1830,
+          430,
+          "flinch",
+          -25
+        ],
+        [
+          "coupon-collector",
+          870,
+          1830,
+          360,
+          "hide-tickets",
+          0
+        ]
+      ],
+      "pylon-rip": [
+        [
+          "phone-filmer",
+          150,
+          1830,
+          410,
+          "flinch",
+          -20
+        ],
+        [
+          "rolling-out",
+          850,
+          1830,
+          360,
+          "roll",
+          -170
+        ]
+      ],
+      "city": [
+        [
+          "family-on-the-move",
+          155,
+          1835,
+          370,
+          "run",
+          230
+        ],
+        [
+          "runner",
+          800,
+          1830,
+          330,
+          "run",
+          350
+        ]
+      ],
+      "skull": [
+        [
+          "snack-protector",
+          180,
+          1830,
+          420,
+          "flinch",
+          -15
+        ],
+        [
+          "phone-filmer",
+          890,
+          1830,
+          390,
+          "flinch",
+          20
+        ]
+      ],
+      "tex-card": [
+        [
+          "phone-filmer",
+          155,
+          1830,
+          390,
+          "flinch",
+          -15
+        ],
+        [
+          "unbothered-local",
+          895,
+          1830,
+          350,
+          "watch",
+          0
+        ]
+      ],
+      "main-title": [],
+      "aftermath": [
+        [
+          "snack-protector",
+          175,
+          1830,
+          410,
+          "flinch",
+          -15
+        ],
+        [
+          "unbothered-local",
+          890,
+          1820,
+          370,
+          "watch",
+          0
+        ]
+      ]
+    }
+  },
+  "cues": [
+    {
+      "frame": 7,
+      "time": 0.2916666666666667,
+      "detected_time": 0.28,
+      "strength": 1.3661,
+      "source": "prominent internal attack",
+      "sync_error_ms": 11.667
+    },
+    {
+      "frame": 25,
+      "time": 1.0416666666666667,
+      "detected_time": 1.045,
+      "strength": 1.157,
+      "source": "prominent internal attack",
+      "sync_error_ms": -3.333
+    },
+    {
+      "frame": 43,
+      "time": 1.7916666666666667,
+      "detected_time": 1.8,
+      "strength": 1.2366,
+      "source": "prominent internal attack",
+      "sync_error_ms": -8.333
+    },
+    {
+      "frame": 61,
+      "time": 2.5416666666666665,
+      "detected_time": 2.56,
+      "strength": 1.2489,
+      "source": "prominent internal attack",
+      "sync_error_ms": -18.333
+    },
+    {
+      "frame": 80,
+      "time": 3.3333333333333335,
+      "detected_time": 3.315,
+      "strength": 0.9989,
+      "source": "shot attack",
+      "sync_error_ms": 18.333
+    },
+    {
+      "frame": 135,
+      "time": 5.625,
+      "detected_time": 5.625,
+      "strength": 0.15,
+      "source": "shot attack",
+      "sync_error_ms": 0
+    },
+    {
+      "frame": 148,
+      "time": 6.166666666666667,
+      "detected_time": 6.165,
+      "strength": 1.3915,
+      "source": "prominent internal attack",
+      "sync_error_ms": 1.667
+    },
+    {
+      "frame": 189,
+      "time": 7.875,
+      "detected_time": 7.87,
+      "strength": 1.0028,
+      "source": "shot attack",
+      "sync_error_ms": 5
+    },
+    {
+      "frame": 207,
+      "time": 8.625,
+      "detected_time": 8.63,
+      "strength": 1.2951,
+      "source": "prominent internal attack",
+      "sync_error_ms": -5
+    },
+    {
+      "frame": 225,
+      "time": 9.375,
+      "detected_time": 9.385,
+      "strength": 1.2087,
+      "source": "prominent internal attack",
+      "sync_error_ms": -10
+    },
+    {
+      "frame": 262,
+      "time": 10.916666666666666,
+      "detected_time": 10.905,
+      "strength": 1.0911,
+      "source": "shot attack",
+      "sync_error_ms": 11.667
+    },
+    {
+      "frame": 298,
+      "time": 12.416666666666666,
+      "detected_time": 12.42,
+      "strength": 1.3416,
+      "source": "prominent internal attack",
+      "sync_error_ms": -3.333
+    },
+    {
+      "frame": 316,
+      "time": 13.166666666666666,
+      "detected_time": 13.18,
+      "strength": 1.3063,
+      "source": "prominent internal attack",
+      "sync_error_ms": -13.333
+    },
+    {
+      "frame": 335,
+      "time": 13.958333333333334,
+      "detected_time": 13.94,
+      "strength": 1.1792,
+      "source": "shot attack",
+      "sync_error_ms": 18.333
+    },
+    {
+      "frame": 407,
+      "time": 16.958333333333332,
+      "detected_time": 16.975,
+      "strength": 1.0774,
+      "source": "shot attack",
+      "sync_error_ms": -16.667
+    },
+    {
+      "frame": 485,
+      "time": 20.208333333333332,
+      "detected_time": 20.205,
+      "strength": 0.3906,
+      "source": "shot attack",
+      "sync_error_ms": 3.333
+    },
+    {
+      "frame": 515,
+      "time": 21.458333333333332,
+      "detected_time": 21.465,
+      "strength": 0.3141,
+      "source": "shot attack",
+      "sync_error_ms": -6.667
+    },
+    {
+      "frame": 562,
+      "time": 23.416666666666668,
+      "detected_time": 23.42,
+      "strength": 0.5961,
+      "source": "shot attack",
+      "sync_error_ms": -3.333
+    },
+    {
+      "frame": 585,
+      "time": 24.375,
+      "detected_time": 24.365,
+      "strength": 1.7334,
+      "source": "prominent internal attack",
+      "sync_error_ms": 10
+    },
+    {
+      "frame": 608,
+      "time": 25.333333333333332,
+      "detected_time": 25.315,
+      "strength": 1.2338,
+      "source": "prominent internal attack",
+      "sync_error_ms": 18.333
+    },
+    {
+      "frame": 626,
+      "time": 26.083333333333332,
+      "detected_time": 26.075,
+      "strength": 1.2677,
+      "source": "shot attack",
+      "sync_error_ms": 8.333
+    },
+    {
+      "frame": 644,
+      "time": 26.833333333333332,
+      "detected_time": 26.835,
+      "strength": 1.3709,
+      "source": "shot attack",
+      "sync_error_ms": -1.667
+    },
+    {
+      "frame": 699,
+      "time": 29.125,
+      "detected_time": 29.11,
+      "strength": 1.4635,
+      "source": "prominent internal attack",
+      "sync_error_ms": 15
+    },
+    {
+      "frame": 717,
+      "time": 29.875,
+      "detected_time": 29.865,
+      "strength": 1.2566,
+      "source": "shot attack",
+      "sync_error_ms": 10
+    },
+    {
+      "frame": 735,
+      "time": 30.625,
+      "detected_time": 30.625,
+      "strength": 1.2022,
+      "source": "prominent internal attack",
+      "sync_error_ms": 0
+    },
+    {
+      "frame": 753,
+      "time": 31.375,
+      "detected_time": 31.38,
+      "strength": 1.4106,
+      "source": "shot attack",
+      "sync_error_ms": -5
+    },
+    {
+      "frame": 771,
+      "time": 32.125,
+      "detected_time": 32.14,
+      "strength": 1.2275,
+      "source": "prominent internal attack",
+      "sync_error_ms": -15
+    },
+    {
+      "frame": 790,
+      "time": 32.916666666666664,
+      "detected_time": 32.9,
+      "strength": 1.322,
+      "source": "shot attack",
+      "sync_error_ms": 16.667
+    },
+    {
+      "frame": 826,
+      "time": 34.416666666666664,
+      "detected_time": 34.415,
+      "strength": 1.1971,
+      "source": "prominent internal attack",
+      "sync_error_ms": 1.667
+    },
+    {
+      "frame": 844,
+      "time": 35.166666666666664,
+      "detected_time": 35.175,
+      "strength": 1.1783,
+      "source": "prominent internal attack",
+      "sync_error_ms": -8.333
+    },
+    {
+      "frame": 862,
+      "time": 35.916666666666664,
+      "detected_time": 35.935,
+      "strength": 1.3408,
+      "source": "shot attack",
+      "sync_error_ms": -18.333
+    },
+    {
+      "frame": 876,
+      "time": 36.5,
+      "detected_time": 36.5,
+      "strength": 1.1887,
+      "source": "prominent internal attack",
+      "sync_error_ms": 0
+    },
+    {
+      "frame": 899,
+      "time": 37.458333333333336,
+      "detected_time": 37.45,
+      "strength": 1.1605,
+      "source": "shot attack",
+      "sync_error_ms": 8.333
+    },
+    {
+      "frame": 935,
+      "time": 38.958333333333336,
+      "detected_time": 38.965,
+      "strength": 1.1926,
+      "source": "prominent internal attack",
+      "sync_error_ms": -6.667
+    },
+    {
+      "frame": 944,
+      "time": 39.333333333333336,
+      "detected_time": 39.35,
+      "strength": 0.9285,
+      "source": "shot attack",
+      "sync_error_ms": -16.667
+    },
+    {
+      "frame": 990,
+      "time": 41.25,
+      "detected_time": 41.245,
+      "strength": 1.1341,
+      "source": "shot attack",
+      "sync_error_ms": 5
+    },
+    {
+      "frame": 1008,
+      "time": 42,
+      "detected_time": 42.005,
+      "strength": 1.2845,
+      "source": "shot attack",
+      "sync_error_ms": -5
+    },
+    {
+      "frame": 1026,
+      "time": 42.75,
+      "detected_time": 42.76,
+      "strength": 1.1633,
+      "source": "prominent internal attack",
+      "sync_error_ms": -10
+    },
+    {
+      "frame": 1063,
+      "time": 44.291666666666664,
+      "detected_time": 44.28,
+      "strength": 1.1886,
+      "source": "shot attack",
+      "sync_error_ms": 11.667
+    },
+    {
+      "frame": 1099,
+      "time": 45.791666666666664,
+      "detected_time": 45.795,
+      "strength": 1.2328,
+      "source": "shot attack",
+      "sync_error_ms": -3.333
+    },
+    {
+      "frame": 1136,
+      "time": 47.333333333333336,
+      "detected_time": 47.315,
+      "strength": 1.2839,
+      "source": "shot attack",
+      "sync_error_ms": 18.333
+    },
+    {
+      "frame": 1154,
+      "time": 48.083333333333336,
+      "detected_time": 48.075,
+      "strength": 1.1736,
+      "source": "shot attack",
+      "sync_error_ms": 8.333
+    },
+    {
+      "frame": 1167,
+      "time": 48.625,
+      "detected_time": 48.645,
+      "strength": 1.2549,
+      "source": "prominent internal attack",
+      "sync_error_ms": -20
+    },
+    {
+      "frame": 1176,
+      "time": 49,
+      "detected_time": 49.02,
+      "strength": 1.3868,
+      "source": "shot attack",
+      "sync_error_ms": -20
+    },
+    {
+      "frame": 1208,
+      "time": 50.333333333333336,
+      "detected_time": 50.35,
+      "strength": 0.9805,
+      "source": "shot attack",
+      "sync_error_ms": -16.667
+    },
+    {
+      "frame": 1227,
+      "time": 51.125,
+      "detected_time": 51.105,
+      "strength": 1.2033,
+      "source": "shot attack",
+      "sync_error_ms": 20
+    },
+    {
+      "frame": 1245,
+      "time": 51.875,
+      "detected_time": 51.865,
+      "strength": 1.2914,
+      "source": "prominent internal attack",
+      "sync_error_ms": 10
+    },
+    {
+      "frame": 1263,
+      "time": 52.625,
+      "detected_time": 52.625,
+      "strength": 1.3731,
+      "source": "shot attack",
+      "sync_error_ms": 0
+    },
+    {
+      "frame": 1299,
+      "time": 54.125,
+      "detected_time": 54.14,
+      "strength": 1.2163,
+      "source": "shot attack",
+      "sync_error_ms": -15
+    },
+    {
+      "frame": 1318,
+      "time": 54.916666666666664,
+      "detected_time": 54.905,
+      "strength": 1.2743,
+      "source": "shot attack",
+      "sync_error_ms": 11.667
+    },
+    {
+      "frame": 1336,
+      "time": 55.666666666666664,
+      "detected_time": 55.66,
+      "strength": 1.3104,
+      "source": "shot attack",
+      "sync_error_ms": 6.667
+    },
+    {
+      "frame": 1372,
+      "time": 57.166666666666664,
+      "detected_time": 57.18,
+      "strength": 0.9537,
+      "source": "shot attack",
+      "sync_error_ms": -13.333
+    },
+    {
+      "frame": 1391,
+      "time": 57.958333333333336,
+      "detected_time": 57.94,
+      "strength": 1.359,
+      "source": "shot attack",
+      "sync_error_ms": 18.333
+    },
+    {
+      "frame": 1409,
+      "time": 58.708333333333336,
+      "detected_time": 58.695,
+      "strength": 1.192,
+      "source": "prominent internal attack",
+      "sync_error_ms": 13.333
+    },
+    {
+      "frame": 1445,
+      "time": 60.208333333333336,
+      "detected_time": 60.215,
+      "strength": 1.3358,
+      "source": "shot attack",
+      "sync_error_ms": -6.667
+    },
+    {
+      "frame": 1459,
+      "time": 60.791666666666664,
+      "detected_time": 60.78,
+      "strength": 1.4025,
+      "source": "prominent internal attack",
+      "sync_error_ms": 11.667
+    },
+    {
+      "frame": 1468,
+      "time": 61.166666666666664,
+      "detected_time": 61.165,
+      "strength": 0.9945,
+      "source": "shot attack",
+      "sync_error_ms": 1.667
+    },
+    {
+      "frame": 1486,
+      "time": 61.916666666666664,
+      "detected_time": 61.915,
+      "strength": 1.2747,
+      "source": "shot attack",
+      "sync_error_ms": 1.667
+    },
+    {
+      "frame": 1509,
+      "time": 62.875,
+      "detected_time": 62.87,
+      "strength": 1.692,
+      "source": "shot attack",
+      "sync_error_ms": 5
+    },
+    {
+      "frame": 1523,
+      "time": 63.458333333333336,
+      "detected_time": 63.44,
+      "strength": 1.3699,
+      "source": "prominent internal attack",
+      "sync_error_ms": 18.333
+    },
+    {
+      "frame": 1545,
+      "time": 64.375,
+      "detected_time": 64.385,
+      "strength": 1.5828,
+      "source": "shot attack",
+      "sync_error_ms": -10
+    },
+    {
+      "frame": 1559,
+      "time": 64.95833333333333,
+      "detected_time": 64.955,
+      "strength": 1.012,
+      "source": "shot attack",
+      "sync_error_ms": 3.333
+    },
+    {
+      "frame": 1572,
+      "time": 65.5,
+      "detected_time": 65.52,
+      "strength": 1.2802,
+      "source": "prominent internal attack",
+      "sync_error_ms": -20
+    },
+    {
+      "frame": 1582,
+      "time": 65.91666666666667,
+      "detected_time": 65.905,
+      "strength": 1.8337,
+      "source": "shot attack",
+      "sync_error_ms": 11.667
+    },
+    {
+      "frame": 1595,
+      "time": 66.45833333333333,
+      "detected_time": 66.47,
+      "strength": 1.5533,
+      "source": "shot attack",
+      "sync_error_ms": -11.667
+    },
+    {
+      "frame": 1604,
+      "time": 66.83333333333333,
+      "detected_time": 66.85,
+      "strength": 1.4645,
+      "source": "prominent internal attack",
+      "sync_error_ms": -16.667
+    },
+    {
+      "frame": 1618,
+      "time": 67.41666666666667,
+      "detected_time": 67.415,
+      "strength": 1.442,
+      "source": "prominent internal attack",
+      "sync_error_ms": 1.667
+    },
+    {
+      "frame": 1656,
+      "time": 69,
+      "detected_time": 69.01,
+      "strength": 0.3853,
+      "source": "shot attack",
+      "sync_error_ms": -10
+    },
+    {
+      "frame": 1727,
+      "time": 71.95833333333333,
+      "detected_time": 71.965,
+      "strength": 1.5782,
+      "source": "prominent internal attack",
+      "sync_error_ms": -6.667
+    },
+    {
+      "frame": 1736,
+      "time": 72.33333333333333,
+      "detected_time": 72.345,
+      "strength": 1.478,
+      "source": "prominent internal attack",
+      "sync_error_ms": -11.667
+    },
+    {
+      "frame": 1745,
+      "time": 72.70833333333333,
+      "detected_time": 72.725,
+      "strength": 1.7112,
+      "source": "prominent internal attack",
+      "sync_error_ms": -16.667
+    },
+    {
+      "frame": 1754,
+      "time": 73.08333333333333,
+      "detected_time": 73.1,
+      "strength": 1.7606,
+      "source": "prominent internal attack",
+      "sync_error_ms": -16.667
+    },
+    {
+      "frame": 1845,
+      "time": 76.875,
+      "detected_time": 76.895,
+      "strength": 1.4646,
+      "source": "shot attack",
+      "sync_error_ms": -20
+    },
+    {
+      "frame": 1864,
+      "time": 77.66666666666667,
+      "detected_time": 77.655,
+      "strength": 1.4559,
+      "source": "prominent internal attack",
+      "sync_error_ms": 11.667
+    },
+    {
+      "frame": 1882,
+      "time": 78.41666666666667,
+      "detected_time": 78.415,
+      "strength": 1.2339,
+      "source": "prominent internal attack",
+      "sync_error_ms": 1.667
+    },
+    {
+      "frame": 1900,
+      "time": 79.16666666666667,
+      "detected_time": 79.17,
+      "strength": 1.4806,
+      "source": "prominent internal attack",
+      "sync_error_ms": -3.333
+    },
+    {
+      "frame": 1918,
+      "time": 79.91666666666667,
+      "detected_time": 79.93,
+      "strength": 1.0941,
+      "source": "shot attack",
+      "sync_error_ms": -13.333
+    },
+    {
+      "frame": 1937,
+      "time": 80.70833333333333,
+      "detected_time": 80.69,
+      "strength": 1.2503,
+      "source": "prominent internal attack",
+      "sync_error_ms": 18.333
+    },
+    {
+      "frame": 1955,
+      "time": 81.45833333333333,
+      "detected_time": 81.45,
+      "strength": 1.3405,
+      "source": "prominent internal attack",
+      "sync_error_ms": 8.333
+    },
+    {
+      "frame": 1973,
+      "time": 82.20833333333333,
+      "detected_time": 82.205,
+      "strength": 1.3244,
+      "source": "shot attack",
+      "sync_error_ms": 3.333
+    },
+    {
+      "frame": 1991,
+      "time": 82.95833333333333,
+      "detected_time": 82.965,
+      "strength": 1.4927,
+      "source": "prominent internal attack",
+      "sync_error_ms": -6.667
+    },
+    {
+      "frame": 2019,
+      "time": 84.125,
+      "detected_time": 84.105,
+      "strength": 1.3582,
+      "source": "prominent internal attack",
+      "sync_error_ms": 20
+    }
+  ],
+  "scale": {
+    "reference": "https://bigtex.com/about-us/big-tex/",
+    "big_tex_height_feet": 55,
+    "standing_adult_height_feet": 6,
+    "standing_adults_per_big_tex": 9.166666666666666,
+    "puppet_hat_to_sole_units": 773.40625,
+    "full_body_kinds": [
+      "hook",
+      "off-cables",
+      "march",
+      "hat-card",
+      "wheel-chase",
+      "pylon-rip",
+      "charged",
+      "aftermath",
+      "corny-dog"
+    ],
+    "characters": {
+      "snack-protector": {
+        "body_span_units": 184,
+        "reference_height_feet": 6
+      },
+      "phone-filmer": {
+        "body_span_units": 189,
+        "reference_height_feet": 6
+      },
+      "balloon-kid": {
+        "body_span_units": 142,
+        "reference_height_feet": 4
+      },
+      "stroller-parent": {
+        "body_span_units": 186,
+        "reference_height_feet": 6
+      },
+      "family-on-the-move": {
+        "body_span_units": 189,
+        "reference_height_feet": 6
+      },
+      "corny-dog-vendor": {
+        "body_span_units": 204,
+        "reference_height_feet": 6
+      },
+      "coupon-collector": {
+        "body_span_units": 188,
+        "reference_height_feet": 6
+      },
+      "unbothered-local": {
+        "body_span_units": 208,
+        "reference_height_feet": 6
+      },
+      "lost-tourist": {
+        "body_span_units": 198,
+        "reference_height_feet": 6
+      },
+      "runner": {
+        "body_span_units": 175,
+        "reference_height_feet": 6
+      },
+      "rolling-out": {
+        "body_span_units": 203,
+        "reference_height_feet": 4.5
+      },
+      "i30-driver": {
+        "body_span_units": 191,
+        "reference_height_feet": 6
+      }
+    },
+    "method": "Match visible body span to the per-shot puppet height. Exclude raised phones, balloons, flying hats, and stroller props from person height. Travel scales with character size. Close reactions without a full-body Tex remain larger."
+  },
+  "protected_shots": [
+    {
+      "kind": "main-title",
+      "start": 73.5,
+      "end": 76.875
+    },
+    {
+      "kind": "end-title",
+      "start": 84.66666666666667,
+      "end": 90
+    }
+  ],
+  "motion": "SVG pivots and attached props; travel and gait on twos, 24 fps score cues. Recoil grows with score attack strength. Wheeled bystanders rotate from signed travel distance."
+}
