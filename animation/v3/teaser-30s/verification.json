@@ -1,0 +1,72 @@
+{
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "24/1",
+        "start_time": "0.000000",
+        "duration": "30.000000",
+        "nb_frames": "720"
+      },
+      {
+        "codec_name": "aac",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "start_time": "0.000000",
+        "duration": "30.000000",
+        "nb_frames": "1408"
+      }
+    ],
+    "format": {
+      "duration": "30.000000",
+      "size": "6877278"
+    }
+  },
+  "shots": 23,
+  "max_cut_to_detected_attack_error_ms": 20,
+  "audio_mix_correlations": [
+    {
+      "time": 5,
+      "correlation": 0.9998463720087687
+    },
+    {
+      "time": 16,
+      "correlation": 0.9998171438695803
+    },
+    {
+      "time": 20,
+      "correlation": 0.9999869201652857
+    },
+    {
+      "time": 28,
+      "correlation": 0.9998844889577212
+    }
+  ],
+  "source_excerpt_clean_segment_correlation": 0.9999999987247342,
+  "decoded_samples": [
+    0,
+    4.5,
+    7,
+    8.9,
+    10.2,
+    12.5,
+    19,
+    21,
+    23.8,
+    26.2,
+    28,
+    29.95
+  ],
+  "output_sha256": "0f054ea29a9ad93bf4e242885080cb341ab08385d2f26fcef91a1eb34bdced31",
+  "lut_sha256": "2f4af38e6456b1429514dfdc11fc929beae659b2f63f189c1f0d6dc6509d31af",
+  "source_hashes": {
+    "render.cjs": "e11d5d33c6edb3241bd89ca396180de7cbc4165338dc4fabf78dec15e4f2031e",
+    "plan.cjs": "2b84d1977d9ab0b31ea3d9242a83ed46f70bd0f0ba4a2828828022a6eb9d3337"
+  },
+  "shared_scene_source_sha256": "7bb8cffff98e7cf88213f09d287e38676a226c98e1a11f9aebde34f8d25df30e",
+  "human_full_playback_review": false
+}

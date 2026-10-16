@@ -1,0 +1,35 @@
+{
+  "source_score": "Hoooowdy, folks... Trailer Score (Epic Outlaw).wav",
+  "source_offset": 97.235,
+  "duration": 30,
+  "score_gain": 0.86,
+  "button_duck_factor": 0.48,
+  "duck_interval": [
+    18.583333333333332,
+    22.5
+  ],
+  "effects": [
+    {
+      "time": 2.6666666666666665,
+      "kind": "strike"
+    },
+    {
+      "time": 8.333333333333334,
+      "kind": "hat-hit"
+    },
+    {
+      "time": 13.458333333333334,
+      "kind": "stomp"
+    },
+    {
+      "time": 14.583333333333334,
+      "kind": "wheel-rip"
+    },
+    {
+      "time": 25.416666666666668,
+      "kind": "strike"
+    }
+  ],
+  "peak_before_clip": 0.5471304655075073,
+  "source_unchanged": true
+}

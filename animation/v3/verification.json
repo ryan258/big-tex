@@ -1,0 +1,120 @@
+{
+  "outputs": [
+    {
+      "file": "big-tex-rewired-90s-v03.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24/1",
+            "start_time": "0.000000",
+            "duration": "90.000000",
+            "nb_frames": "2160"
+          },
+          {
+            "codec_name": "aac",
+            "channels": 2,
+            "r_frame_rate": "0/0",
+            "start_time": "0.000000",
+            "duration": "90.000000",
+            "nb_frames": "4220"
+          }
+        ],
+        "format": {
+          "duration": "90.000000",
+          "size": "17011262"
+        }
+      },
+      "audio_mix_correlations": [
+        {
+          "time": 10,
+          "correlation": 0.9999352784934666
+        },
+        {
+          "time": 40,
+          "correlation": 0.9998095771342134
+        },
+        {
+          "time": 81,
+          "correlation": 0.9998939040664165
+        }
+      ],
+      "sha256": "e9518c9e0c9e271333712408b1b37dfe3d9f657a5f6c408b7a76614d0b85696a"
+    },
+    {
+      "file": "big-tex-rewired-90s-v03-vertical.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "24/1",
+            "start_time": "0.000000",
+            "duration": "90.000000",
+            "nb_frames": "2160"
+          },
+          {
+            "codec_name": "aac",
+            "channels": 2,
+            "r_frame_rate": "0/0",
+            "start_time": "0.000000",
+            "duration": "90.000000",
+            "nb_frames": "4220"
+          }
+        ],
+        "format": {
+          "duration": "90.000000",
+          "size": "16676989"
+        }
+      },
+      "audio_mix_correlations": [
+        {
+          "time": 10,
+          "correlation": 0.9999352784934666
+        },
+        {
+          "time": 40,
+          "correlation": 0.9998095771342134
+        },
+        {
+          "time": 81,
+          "correlation": 0.9998939040664165
+        }
+      ],
+      "sha256": "42515eb98117db28f153e2094bf979248cd67976183fdc4a3c75712b9777d15e"
+    }
+  ],
+  "shots": 47,
+  "max_cut_to_detected_attack_error_ms": 20,
+  "decoded_samples": [
+    0,
+    6.5,
+    24,
+    26.4,
+    30.2,
+    33.4,
+    38,
+    46.3,
+    73.5,
+    80.5,
+    83,
+    89.95
+  ],
+  "source_excerpt_clean_segment_correlation": 0.9999999983734469,
+  "source_score_sha256": "91076cd4bdbe8a9abb8cd16ef10ac4794678e879bf6a34f2e9cc35bbe3fff040",
+  "source_code_hashes": {
+    "render.cjs": "01b7cd57333e6ebd7e3babdf93f2db33e92b685035bdec371f049d0b1044455e",
+    "art.cjs": "5dd46363635a2bf2b5fafeb9fe7da689610ed8563e04aec3ca115eae98f7f982",
+    "plan.cjs": "9d0b6f18715b90cdf4747fb5162f662a01226dfffb754002b1521878fa790699",
+    "scenes.cjs": "29819a399f634f0d5a8e671a767aec538f2ecfc2cdb0598d9cb9e85f07c526cc"
+  },
+  "human_full_playback_review": false,
+  "audience_response_tested": false
+}

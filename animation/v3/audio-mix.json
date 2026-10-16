@@ -1,0 +1,71 @@
+{
+  "source_score": "Hoooowdy, folks... Trailer Score (Epic Outlaw).wav",
+  "source_offset": 49.91999999999999,
+  "duration": 90,
+  "sample_rate": 48000,
+  "score_gain": 0.86,
+  "comedy_button_duck_factor": 0.38,
+  "duck_interval": [
+    79.7,
+    84.6666666667
+  ],
+  "effects": [
+    {
+      "time": 3.3333333333333335,
+      "kind": "strike",
+      "effect": "low impact / paper crack"
+    },
+    {
+      "time": 10.916666666666666,
+      "kind": "stomp",
+      "effect": "low impact / paper crack"
+    },
+    {
+      "time": 26.083333333333332,
+      "kind": "hat-hit",
+      "effect": "soft paper-air swish"
+    },
+    {
+      "time": 35.916666666666664,
+      "kind": "stomp",
+      "effect": "low impact / paper crack"
+    },
+    {
+      "time": 39.333333333333336,
+      "kind": "wheel-rip",
+      "effect": "low impact / paper crack"
+    },
+    {
+      "time": 45.791666666666664,
+      "kind": "pylon-rip",
+      "effect": "low impact / paper crack"
+    },
+    {
+      "time": 48.083333333333336,
+      "kind": "strike",
+      "effect": "low impact / paper crack"
+    },
+    {
+      "time": 54.916666666666664,
+      "kind": "stomp",
+      "effect": "low impact / paper crack"
+    },
+    {
+      "time": 61.166666666666664,
+      "kind": "strike",
+      "effect": "low impact / paper crack"
+    },
+    {
+      "time": 62.875,
+      "kind": "stomp",
+      "effect": "low impact / paper crack"
+    },
+    {
+      "time": 64.375,
+      "kind": "pylon-rip",
+      "effect": "low impact / paper crack"
+    }
+  ],
+  "peak_before_safety_clip": 0.5424649715423584,
+  "source_unchanged": true
+}
